@@ -3,13 +3,10 @@
 
 ## Prerequisites
 
-- [Download Sencha Complete](http://www.sencha.com/products/complete-team/evaluate) <small style='color:#aaa;'>&mdash; _Sencha_</small>  
+- [Download Sencha Complete: Team](http://www.sencha.com/products/complete-team/evaluate) <small style='color:#aaa;'>&mdash; _Sencha_</small>  
   
 
 ## Beginner
-
-- **(Blog)** [Introducing Sencha Complete: Team](http://www.sencha.com/blog/introducing-sencha-complete-team/) <small style='color:#aaa;'>&mdash; _Aditya Bansod_</small>  
-  Over the last few years, we’ve been working hand in hand with our customers as they use Sencha technologies to make more complex and mission critical applications on both desktop and mobile. Sencha Complete: Team is intended to help teams of developers be more productive, connect their apps more easily to back-end data sources, and have more flexibility in deployment.
 
 - **(Learning Pathway)** [Ext JS 4 Learning Pathway](http://www.sencha.com/learn/extjs4-learning-pathway) <small style='color:#aaa;'>&mdash; _Sencha_</small>  
   The following learning pathway guides you through building desktop applications using Sencha Ext JS.
@@ -20,10 +17,6 @@
 - **(Learning Pathway)** [Sencha Architect 2 Learning Pathway](learn/architect2) <small style='color:#aaa;'>&mdash; _Sencha_</small>  
   The following learning pathway guides you through building Ext JS and Sencha Touch applications using Sencha Architect.
 
-- **(Learning Pathway)** [Sencha Animator Learning Pathway](learn/animator1) <small style='color:#aaa;'>&mdash; _Sencha_</small>  
-  
-- **(Learning Pathway)** [Sencha GXT Learning Pathway](learn/gxt3) <small style='color:#aaa;'>&mdash; _Sencha_</small>  
-  
 - **(Learning Pathway)** [Sencha Cmd Learning Pathway](learn/cmd) <small style='color:#aaa;'>&mdash; _Sencha_</small>  
   
 
@@ -46,7 +39,7 @@
 
 - **(Video)** [Sencha Complete Eclipse Plug-in (12:41)](http://vimeo.com/49176749) <small style='color:#aaa;'>&mdash; _vimeo.com_ on September 10, 2012</small>  
   
-- [Taking a look at the new Sencha SOAP Data Proxy](http://www.sencha.com/blog/taking-a-look-at-the-new-sencha-soap-data-proxy/) <small style='color:#aaa;'>&mdash; _Kevin Kazmierczak_ on September 27, 2012</small>  
+- **(Blog)** [Taking a look at the new Sencha SOAP Data Proxy](http://www.sencha.com/blog/taking-a-look-at-the-new-sencha-soap-data-proxy/) <small style='color:#aaa;'>&mdash; _Kevin Kazmierczak_ on September 27, 2012</small>  
   The Sencha data package offers a number of different proxies to connect your application to all kinds of data. With the release of Ext JS 4.1.2 in Sencha Complete: Team, developers can now point to SOAP web services. With SOAP being one of the most popular web service protocols out there, this will allow developers a new option for connecting their applications to data.
 
 - **(Learning Pathway)** [Architecting Sencha Apps using MVC Learning Pathway](learn/mvc) <small style='color:#aaa;'>&mdash; _Sencha_</small>  
