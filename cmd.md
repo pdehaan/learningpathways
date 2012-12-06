@@ -3,12 +3,12 @@
 
 ## Prerequisites
 
-- [Download Ext JS 4.1.x](http://www.sencha.com/products/extjs/download/) <small style='color:#aaa;'>&mdash; _www.sencha.com_</small>  
+- [Download Ext JS 4.1.x](undefined) <small style='color:#aaa;'></small>  
   
 
 ## Beginner
 
-- **(Guide)** [Introduction to Sencha Cmd](http://docs.sencha.com/ext-js/4-1/#!/guide/command) <small style='color:#aaa;'>&mdash; _docs.sencha.com_</small>  
+- **(Guide)** [Introduction to Sencha Cmd](undefined) <small style='color:#aaa;'></small>  
   Introduction to using Sencha Cmd.
 
 - **(Blog)** [Behind the Sencha Command Utility and the Build Process](http://www.sencha.com/blog/behind-sencha-command-and-the-build-process/) <small style='color:#aaa;'>&mdash; _Jacky Nguyen_</small>  
