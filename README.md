@@ -8,6 +8,8 @@ Sencha product learning pathways and community links.
 - [GXT 3.x](gxt3.md)
 - [Sencha Touch 2.x](touch2.md)
 
+---
+
 - [Sencha Cmd](cmd.md)
 - [MVC](mvc.md)
 - [Testing](testing.md)
