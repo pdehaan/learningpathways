@@ -55,6 +55,9 @@
 - **(Slides)** [Migrating from Touch 1.x to 2.0](http://www.sencha.com/conference/session/migrating-from-touch-1.x-to-2.0) <small style='color:#aaa;'>&mdash; _Jamie Avins_ on November 2, 2011</small>  
   Understand how to benefit from the latest capabilities of the Sencha Touch framework, and how to ensure your code is compatible when you upgrade.
 
+- **(Blog)** [What's New in Sencha Touch 2.1](http://www.sencha.com/blog/whats-new-in-sencha-touch-21/) <small style='color:#aaa;'>&mdash; _Jamie Avins_ on October 24, 2012</small>  
+  Sencha Touch 2.1 is our next release of the Sencha mobile framework. The 2.1 release includes the following key upgrades: significant performance improvements, charting support, an advanced list component, and enhanced native support through the Sencha Mobile Packager.
+
 - **(Documentation)** [Sencha Touch 2 Examples](http://docs.sencha.com/touch/2-1/#!/example) <small style='color:#aaa;'>&mdash; _docs.sencha.com_</small>  
   
 - **(Guide)** [Data Package Overview](http://docs.sencha.com/touch/2-1/#!/guide/data) <small style='color:#aaa;'>&mdash; _docs.sencha.com_</small>  
@@ -113,6 +116,15 @@
   
 - **(Learn)** [Sencha Cmd Learning Pathway](/learn/cmd/) <small style='color:#aaa;'></small>  
   
+- **(Community)** [Sencha Touch 2.0 Tip: Increase the speed of your app rotation by temporarily removing DOM (4:18)](http://moduscreate.com/sencha-touch-2-0-expert-tip-how-to-increase-the-speed-of-your-app-rotation-by-temporarily-removing-dom/) <small style='color:#aaa;'>&mdash; _Jay Garcia_ on July 17, 2012</small>  
+  In the screencast below, I demonstrate how you can increase the speed of your apps by temporarily removing DOM that is not viewed by the user. ...
+
+- **(Community)** [Sencha Touch 2.0 Tip: Make the Carousel fire show events at the proper time!](http://moduscreate.com/sencha-touch-2-0-expert-tip-make-the-carousel-fire-show-events-at-the-proper-time/) <small style='color:#aaa;'>&mdash; _Jay Garcia_ on July 16, 2012</small>  
+  Recently, I came across a requirement where I needed to know when a Sencha Touch 2.0 Carousel Item is shown to the user (active item 0) to render ...
+
+- **(Community)** [Sencha Touch 2 Touch Events Re-firing](http://moduscreate.com/sencha-touch-2-touch-events-re-firing/) <small style='color:#aaa;'>&mdash; _Stan Bershadskiy_ on July 11, 2012</small>  
+  While generally we try to avoid native browser alert() and confirm() we sometimes have no control over their use. I have come across a situation ...
+
 
 ## Advanced
 
