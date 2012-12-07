@@ -2,6 +2,12 @@
 
 Sencha product learning pathways and community links.
 
+## Overview
+
+The following links are a curated list of links to documentation, guides, videos, blog posts, books, applications, and community content to help you get started with using Sencha products.
+
+---
+
 - [Sencha Complete Learning Pathway](/pdehaan/learningpathways/blob/master/complete.md)
 - [Sencha Complete: Team Learning Pathway](/pdehaan/learningpathways/blob/master/complete-team.md)
 
