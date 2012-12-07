@@ -1,7 +1,4 @@
 # Ext JS 4 Learning Pathway
-This Learning Pathway will guide you through getting started with Sencha's Ext JS 4.x SDK.
-
-You'll learn all sorts of cool things. Trust us, you'll love it.
 
 
 ## Prerequisites
