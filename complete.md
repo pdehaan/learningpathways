@@ -3,24 +3,21 @@
 
 ## Prerequisites
 
-- [Download Sencha Complete](http://www.sencha.com/products/complete-team/evaluate) <small style='color:#aaa;'>&mdash; _Sencha_</small>  
+- [Download Sencha Complete](http://www.sencha.com/products/complete/evaluate) <small style='color:#aaa;'>&mdash; _Sencha_</small>  
   
 
 ## Beginner
 
-- **(Blog)** [Introducing Sencha Complete: Team](http://www.sencha.com/blog/introducing-sencha-complete-team/) <small style='color:#aaa;'>&mdash; _Aditya Bansod_</small>  
-  Over the last few years, we’ve been working hand in hand with our customers as they use Sencha technologies to make more complex and mission critical applications on both desktop and mobile. Sencha Complete: Team is intended to help teams of developers be more productive, connect their apps more easily to back-end data sources, and have more flexibility in deployment.
-
 - **(Learning Pathway)** [Ext JS 4 Learning Pathway](http://www.sencha.com/learn/extjs4-learning-pathway) <small style='color:#aaa;'>&mdash; _Sencha_</small>  
   The following learning pathway guides you through building desktop applications using Sencha Ext JS.
 
-- **(Learning Pathway)** [Sencha Touch 2 Learning Pathway](learn/touch2) <small style='color:#aaa;'>&mdash; _Sencha_</small>  
+- **(Learning Pathway)** [Sencha Touch 2 Learning Pathway](http://www.sencha.com/learn/touch2) <small style='color:#aaa;'>&mdash; _Sencha_</small>  
   The following learning pathway guides you through building mobile applications using Sencha Touch.
 
-- **(Learning Pathway)** [Sencha Architect 2 Learning Pathway](learn/architect2) <small style='color:#aaa;'>&mdash; _Sencha_</small>  
+- **(Learning Pathway)** [Sencha Architect 2 Learning Pathway](http://www.sencha.com/learn/architect2) <small style='color:#aaa;'>&mdash; _Sencha_</small>  
   The following learning pathway guides you through building Ext JS and Sencha Touch applications using Sencha Architect.
 
-- **(Learning Pathway)** [Sencha Cmd Learning Pathway](learn/cmd) <small style='color:#aaa;'>&mdash; _Sencha_</small>  
+- **(Learning Pathway)** [Sencha Cmd Learning Pathway](http://www.sencha.com/learn/cmd-learning-pathway) <small style='color:#aaa;'>&mdash; _Sencha_</small>  
   
 
 ## Intermediate
@@ -39,11 +36,11 @@
 
 - **(Video)** [Sencha Complete Eclipse Plug-in (12:41)](http://vimeo.com/49176749) <small style='color:#aaa;'>&mdash; _vimeo.com_ on September 10, 2012</small>  
   
-- **(Learning Pathway)** [Architecting Sencha Apps using MVC Learning Pathway](learn/mvc) <small style='color:#aaa;'>&mdash; _Sencha_</small>  
+- **(Learning Pathway)** [Architecting Sencha Apps using MVC Learning Pathway](http://www.sencha.com/learn/mvc-learning-pathway) <small style='color:#aaa;'>&mdash; _Sencha_</small>  
   
-- **(Learning Pathway)** [Testing Sencha Applications Learning Pathway](learn/testing) <small style='color:#aaa;'>&mdash; _Sencha_</small>  
+- **(Learning Pathway)** [Testing Sencha Applications Learning Pathway](http://www.sencha.com/learn/testing-learning-pathway) <small style='color:#aaa;'>&mdash; _Sencha_</small>  
   
-- **(Learning Pathway)** [Theming Sencha Applications Learning Pathway](learn/theming) <small style='color:#aaa;'>&mdash; _Sencha_</small>  
+- **(Learning Pathway)** [Theming Sencha Applications Learning Pathway](http://www.sencha.com/learn/theming-learning-pathway) <small style='color:#aaa;'>&mdash; _Sencha_</small>  
   The following learning pathway guides you through styling Ext JS and Sencha Touch applications using Sass and Compass.
 
 

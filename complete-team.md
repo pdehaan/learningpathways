@@ -8,16 +8,19 @@
 
 ## Beginner
 
+- **(Blog)** [Introducing Sencha Complete: Team](http://www.sencha.com/blog/introducing-sencha-complete-team/) <small style='color:#aaa;'>&mdash; _Aditya Bansod_</small>  
+  Over the last few years, we’ve been working hand in hand with our customers as they use Sencha technologies to make more complex and mission critical applications on both desktop and mobile. Sencha Complete: Team is intended to help teams of developers be more productive, connect their apps more easily to back-end data sources, and have more flexibility in deployment.
+
 - **(Learning Pathway)** [Ext JS 4 Learning Pathway](http://www.sencha.com/learn/extjs4-learning-pathway) <small style='color:#aaa;'>&mdash; _Sencha_</small>  
   The following learning pathway guides you through building desktop applications using Sencha Ext JS.
 
-- **(Learning Pathway)** [Sencha Touch 2 Learning Pathway](learn/touch2) <small style='color:#aaa;'>&mdash; _Sencha_</small>  
+- **(Learning Pathway)** [Sencha Touch 2 Learning Pathway](http://www.sencha.com/learn/touch2-learning-pathway) <small style='color:#aaa;'>&mdash; _Sencha_</small>  
   The following learning pathway guides you through building mobile applications using Sencha Touch.
 
-- **(Learning Pathway)** [Sencha Architect 2 Learning Pathway](learn/architect2) <small style='color:#aaa;'>&mdash; _Sencha_</small>  
+- **(Learning Pathway)** [Sencha Architect 2 Learning Pathway](http://www.sencha.com/learn/architect2-learning-pathway) <small style='color:#aaa;'>&mdash; _Sencha_</small>  
   The following learning pathway guides you through building Ext JS and Sencha Touch applications using Sencha Architect.
 
-- **(Learning Pathway)** [Sencha Cmd Learning Pathway](learn/cmd) <small style='color:#aaa;'>&mdash; _Sencha_</small>  
+- **(Learning Pathway)** [Sencha Cmd Learning Pathway](http://www.sencha.com/learn/cmd-learning-pathway) <small style='color:#aaa;'>&mdash; _Sencha_</small>  
   
 
 ## Intermediate
@@ -31,6 +34,9 @@
 - **(Blog)** [Creating Native Applications with Sencha Desktop Packager](http://www.sencha.com/blog/creating-native-applications-with-sencha-desktop-packager/) <small style='color:#aaa;'>&mdash; _Ariya Hidayat_ on November 26, 2012</small>  
   Sencha Desktop Packager is a new product, included with the Sencha Complete: Team bundle, which enables you to take your existing Ext JS web application and package it as a native desktop application. From here, you may deliver your application to your customers who are running Windows and Mac OS X.
 
+- **(Blog)** [Taking a look at the new Sencha SOAP Data Proxy](http://www.sencha.com/blog/taking-a-look-at-the-new-sencha-soap-data-proxy/) <small style='color:#aaa;'>&mdash; _Kevin Kazmierczak_ on September 27, 2012</small>  
+  The Sencha data package offers a number of different proxies to connect your application to all kinds of data. With the release of Ext JS 4.1.2 in Sencha Complete: Team, developers can now point to SOAP web services. With SOAP being one of the most popular web service protocols out there, this will allow developers a new option for connecting their applications to data.
+
 - **(Video)** [Using Sencha Eclipse Plugin with Sencha Cmd (10:21)](http://www.sencha.com/blog/using-sencha-cmd-and-the-sencha-eclipse-plugin-together/) <small style='color:#aaa;'>&mdash; _www.sencha.com_ on November 27, 2012</small>  
   Sencha Cmd and Sencha Eclipse Plugin work great together. See how Sencha Cmd streamlines the process of setting up your model-view-controller Ext JS or Sencha Touch application and how Sencha Eclipse Plugin gives you code assist, error checking and type ahead support from the popular Eclipse IDE. Use both these Sencha tools together to dramatically reduce your app development time.
 
@@ -39,14 +45,11 @@
 
 - **(Video)** [Sencha Complete Eclipse Plug-in (12:41)](http://vimeo.com/49176749) <small style='color:#aaa;'>&mdash; _vimeo.com_ on September 10, 2012</small>  
   
-- **(Blog)** [Taking a look at the new Sencha SOAP Data Proxy](http://www.sencha.com/blog/taking-a-look-at-the-new-sencha-soap-data-proxy/) <small style='color:#aaa;'>&mdash; _Kevin Kazmierczak_ on September 27, 2012</small>  
-  The Sencha data package offers a number of different proxies to connect your application to all kinds of data. With the release of Ext JS 4.1.2 in Sencha Complete: Team, developers can now point to SOAP web services. With SOAP being one of the most popular web service protocols out there, this will allow developers a new option for connecting their applications to data.
-
-- **(Learning Pathway)** [Architecting Sencha Apps using MVC Learning Pathway](learn/mvc) <small style='color:#aaa;'>&mdash; _Sencha_</small>  
+- **(Learning Pathway)** [Architecting Sencha Apps using MVC Learning Pathway](http://www.sencha.com/learn/mvc-learning-pathway) <small style='color:#aaa;'>&mdash; _Sencha_</small>  
   
-- **(Learning Pathway)** [Testing Sencha Applications Learning Pathway](learn/testing) <small style='color:#aaa;'>&mdash; _Sencha_</small>  
+- **(Learning Pathway)** [Testing Sencha Applications Learning Pathway](http://www.sencha.com/learn/testing-learning-pathway) <small style='color:#aaa;'>&mdash; _Sencha_</small>  
   
-- **(Learning Pathway)** [Theming Sencha Applications Learning Pathway](learn/theming) <small style='color:#aaa;'>&mdash; _Sencha_</small>  
+- **(Learning Pathway)** [Theming Sencha Applications Learning Pathway](http://www.sencha.com/learn/theming-learning-pathway) <small style='color:#aaa;'>&mdash; _Sencha_</small>  
   The following learning pathway guides you through styling Ext JS and Sencha Touch applications using Sass and Compass.
 
 
