@@ -8,6 +8,9 @@
 
 ## Beginner
 
+- **(Blog)** [Announcing Sencha GXT 3.0](http://www.sencha.com/blog/announcing-sencha-gxt-3-0) <small style='color:#aaa;'>&mdash; _Darrell Meyer_ on April 27, 2012</small>  
+  We're excited to announce the general availability of Sencha GXT 3.0! Sencha GXT, previously known as Ext GWT, is our Java based web application framework that leverages the Google Web Toolkit compiler. With the Sencha GXT 3.0 framework, developers can build high performance web applications with cross-browser compatibility across all desktop browsers.
+
 - **(Slides)** [Introducing Ext GWT 3.0](http://www.sencha.com/conference/session/ext-gwt-3-fundamentals) <small style='color:#aaa;'>&mdash; _Darrell Meyer_ on November 03, 2011</small>  
   This session will provide an overview of Ext GWT 3.0. There are many new features and lots of new functionality in this major release including Cell-based data widgets, Cell-based fields, a new data API, new charts, and theming.
 

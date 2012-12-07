@@ -148,8 +148,17 @@ Typically, a Hello World program illustrates the quickest way to get anything (s
 - **(Community)** [localStorage Caching of Reference Data with ExtJS](http://moduscreate.com/localstorage-caching-of-reference-data-with-extjs/) <small style='color:#aaa;'>&mdash; _Aaron Smith_ on October 15, 2012</small>  
   Do you have a ton of reference data that needs to load with your app? Lots of combo boxes with mostly static data? Previously I had used a custom ...
 
-- **(Community)** [Expert Ext JS: Reading and Writing Structured Data](http://moduscreate.com/expert-ext-js-reading-and-writing-structured-data/) <small style='color:#aaa;'>&mdash; _Aaron Smith_ on July 13, 2012</small>  
+- **(Community)** [Expert Ext JS: Reading and Writing Structured Data](http://moduscreate.com/expert-ext-js-reading-and-writing-structured-data/) <small style='color:#aaa;'>&mdash; _Aaron Smith_ on July 9, 2012</small>  
   Often times front-end developers don't have the option to change server-side behavior. This can be highly frustrating. I'll discuss a few ...
+
+- **(Community)** [Expert Ext JS: Managing Model Associations Across Independent API Calls](http://moduscreate.com/expert-ext-js-managing-model-associations-across-independent-api-calls/) <small style='color:#aaa;'>&mdash; _Aaron Smith_ on July 9, 2012</small>  
+  A few weeks back, Rob Boerman reached out to us with questions about creating linkages between models. As our de facto Associations expert, I ...
+
+- **(Community)** [Expert Ext JS: Associations in Forms](http://moduscreate.com/expert-ext-js-associations-in-forms/) <small style='color:#aaa;'>&mdash; _Aaron Smith_ on June 18, 2012</small>  
+  Associations were a major addition to the data package in Ext JS 4 and, to me at least, appeared to be a great answer to problems I had faced ...
+
+- **(Community)** [Expert Ext JS: Model Integration in Forms](http://moduscreate.com/expert-ext-js-model-integration-in-forms/) <small style='color:#aaa;'>&mdash; _Aaron Smith_ on June 11, 2012</small>  
+  In Ext JS 4, the data package received a lot of attention and the improvements made were, for the most part, quite impressive. However, the ...
 
 - **(Learn)** [Theming Sencha Apps Learning Pathway](/learn/theming) <small style='color:#aaa;'></small>  
   
