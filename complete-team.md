@@ -37,14 +37,9 @@
 - **(Blog)** [Taking a look at the new Sencha SOAP Data Proxy](http://www.sencha.com/blog/taking-a-look-at-the-new-sencha-soap-data-proxy/) <small style='color:#aaa;'>&mdash; _Kevin Kazmierczak_ on September 27, 2012</small>  
   The Sencha data package offers a number of different proxies to connect your application to all kinds of data. With the release of Ext JS 4.1.2 in Sencha Complete: Team, developers can now point to SOAP web services. With SOAP being one of the most popular web service protocols out there, this will allow developers a new option for connecting their applications to data.
 
-- **(Video)** [Using Sencha Eclipse Plugin with Sencha Cmd (10:21)](http://www.sencha.com/blog/using-sencha-cmd-and-the-sencha-eclipse-plugin-together/) <small style='color:#aaa;'>&mdash; _www.sencha.com_ on November 27, 2012</small>  
-  Sencha Cmd and Sencha Eclipse Plugin work great together. See how Sencha Cmd streamlines the process of setting up your model-view-controller Ext JS or Sencha Touch application and how Sencha Eclipse Plugin gives you code assist, error checking and type ahead support from the popular Eclipse IDE. Use both these Sencha tools together to dramatically reduce your app development time.
+- **(Learning Pathway)** [Sencha Eclipse Plugin Learning Pathway](http://www.sencha.com/blog/using-sencha-cmd-and-the-sencha-eclipse-plugin-together/) <small style='color:#aaa;'>&mdash; _Sencha_</small>  
+  The following learning pathway shows how the Sencha Eclipse Plugin gives you code assist, error checking and type ahead support from the popular Eclipse IDE.
 
-- **(Blog)** [The New Sencha Eclipse Plugin](http://www.sencha.com/blog/the-new-sencha-eclipse-plugin/) <small style='color:#aaa;'>&mdash; _Aditya Bansod_ on September 25, 2012</small>  
-  We've been working on various tools that make a Sencha developer’s life easier, and we started with Sencha Architect. Our new plugin makes it even easier to use Architect by providing a full set of code completion and code assistance features for Eclipse.
-
-- **(Video)** [Sencha Complete Eclipse Plug-in (12:41)](http://vimeo.com/49176749) <small style='color:#aaa;'>&mdash; _vimeo.com_ on September 10, 2012</small>  
-  
 - **(Learning Pathway)** [Architecting Sencha Apps using MVC Learning Pathway](http://www.sencha.com/learn/mvc-learning-pathway) <small style='color:#aaa;'>&mdash; _Sencha_</small>  
   
 - **(Learning Pathway)** [Testing Sencha Applications Learning Pathway](http://www.sencha.com/learn/testing-learning-pathway) <small style='color:#aaa;'>&mdash; _Sencha_</small>  

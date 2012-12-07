@@ -58,4 +58,7 @@
 - **(Guide)** [Sencha Cmd Reference](http://docs.sencha.com/ext-js/4-1/#!/guide/command_reference) <small style='color:#aaa;'>&mdash; _docs.sencha.com_</small>  
   A complete command line reference.
 
+- **(Video)** [Using Sencha Eclipse Plugin with Sencha Cmd (10:21)](http://www.sencha.com/blog/using-sencha-cmd-and-the-sencha-eclipse-plugin-together/) <small style='color:#aaa;'>&mdash; _www.sencha.com_ on November 27, 2012</small>  
+  Sencha Cmd and Sencha Eclipse Plugin work great together. See how Sencha Cmd streamlines the process of setting up your model-view-controller Ext JS or Sencha Touch application and how Sencha Eclipse Plugin gives you code assist, error checking and type ahead support from the popular Eclipse IDE. Use both these Sencha tools together to dramatically reduce your app development time.
+
 
