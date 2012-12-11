@@ -13,7 +13,7 @@ The following links are a curated list of links to documentation, guides, videos
 
 ---
 
-- [Sencha Architect Learning Pathway](/pdehaan/learningpathways/blob/master/architect.md)
+- [Sencha Architect Learning Pathway](/pdehaan/learningpathways/blob/master/architect2.md)
 - [Sencha Ext JS Learning Pathway](/pdehaan/learningpathways/blob/master/extjs4.md)
 - [Sencha Touch Learning Pathway](/pdehaan/learningpathways/blob/master/touch2.md)
 - [Sencha GXT Learning Pathway](/pdehaan/learningpathways/blob/master/gxt3.md)

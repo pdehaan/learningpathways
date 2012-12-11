@@ -107,6 +107,9 @@
 - **(Video)** [SenchaCon 2010: Debugging Sencha Touch Apps (40:13)](http://docs.sencha.com/touch/1-1/#!/video/17853133) <small style='color:#aaa;'>&mdash; _Evan Trimboli, Tommy Maintz_ on December 15, 2010</small>  
   Debugging applications on mobile devices is challenging. Although simulators exist, tooling is limited. Luckily, with some accomodations, you can debug your mobile web applications using most desktop tools. In this session, we'll go over what works, what doesn't and how to use tools appropriately to debug your mobile web app.
 
+- **(Blog)** [Sencha Touch: Optimizing Memory Usage](http://www.sencha.com/blog/sencha-touch-optimizing-memory-usage/) <small style='color:#aaa;'>&mdash; _Tommy Maintz_ on March 15, 2011</small>  
+  Although most modern mobile devices have good hardware specs, almost all of them are still lacking in areas like memory — especially compared to their desktop counterparts. In a previous article, we looked at event delegation as a way of improving the performance of your mobile web application. In this article, we will look at one more technique that improves your application's memory usage.
+
 - **(Video)** [SenchaCon 2010: Performance Optimization for Sencha Touch (47:18)](http://docs.sencha.com/touch/1-1/#!/video/17882927) <small style='color:#aaa;'>&mdash; _Tommy Maintz_ on December 16, 2010</small>  
   Mobile devices have very limited processing power compared to modern desktops. It's essential to keep performance optimization in mind when developing Touch applications. Here, we'll discuss how to keep your mobile web app fast and lightweight. We'll learn about such techniques as keeping your DOM slim, managing troublesome CSS3 properties, and other ways to keep your app sleek and responsive.
 
@@ -118,6 +121,9 @@
 
 - **(Video)** [Theming Sencha Frameworks with Sass and Compass (1:22:02)](http://www.sencha.com/learn/theming-sencha-frameworks-with-sass-and-compass/) <small style='color:#aaa;'>&mdash; _James Pearce_ on August 2, 2011</small>  
   James Pearce takes you through setting up Sass and Compass to start theming Sencha Touch and Ext JS 4.
+
+- **(Blog)** [An Introduction to Theming Sencha Touch](http://www.sencha.com/blog/an-introduction-to-theming-sencha-touch/) <small style='color:#aaa;'>&mdash; _David Kaneda_ on December 17, 2010</small>  
+  Sencha Touch has introduced a revolutionary new theming system, built on SASS and Compass, that allows you to create versions of our base theme custom tailored to your application and brand.
 
 - **(Video)** [SenchaCon 2010: Theming Sencha Touch (46:06)](http://docs.sencha.com/touch/1-1/#!/video/17879651) <small style='color:#aaa;'>&mdash; _David Kaneda_ on December 16, 2010</small>  
   Sencha Touch features a novel theming system built on top of SASS & Compass. This session will show you how to quickly customize the look and feel of your application, extend core styles, and optimize your stylesheets to download faster. Lot of code samples and walkthroughs included.

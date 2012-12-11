@@ -35,6 +35,9 @@
 - **(Community)** [Theming Sencha Touch with SASS](http://www.uvd.co.uk/blog/theming-sencha-touch-with-sass/) <small style='color:#aaa;'>&mdash; _Patrick Hamann (www.uvd.co.uk)_ on August 28, 2012</small>  
   At the last London Sencha Touch user group I gave a talk on theming Sencha Touch (ST) with SASS. We've since had many requests for the slides and therefore thought I'd write the process up in a blog post.
 
+- **(Blog)** [CSS3 Styling in Every Browser](http://www.sencha.com/blog/using-CSS3-in-every-browser/) <small style='color:#aaa;'>&mdash; _Robert Dougan_ on July 07, 2011</small>  
+  Traditionally, cross-browser styling has been a time consuming and tedious task. With the rise of modern browsers and the introduction of CSS3, we can finally create beautiful cross-browser interfaces using a simple syntax. We show you how with the new Sencha SDK Tools.
+
 
 ## Other
 

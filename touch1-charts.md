@@ -20,6 +20,8 @@
 - **(Tutorial)** [Touch Charts Interactions](http://www.sencha.com/learn/touch-charts-interactions/) <small style='color:#aaa;'>&mdash; _Sencha_ on March 5, 2012</small>  
   This guide introduces the advanced interaction features in Sencha Touch Charts. By taking advantage of these features, you can create highly interactive charts that allow your users to visualize and easily navigate complex data sets.
 
+- **(Examples)** [Sencha Touch Charts Demos and Examples (WebKit required)](http://dev.sencha.com/deploy/touch-charts-1.0.0/examples/) <small style='color:#aaa;'>&mdash; _Sencha_ on July 15, 2011</small>  
+  
 - **(Tutorial)** [Touch Charts Styling](http://www.sencha.com/learn/touch-charts-styling/) <small style='color:#aaa;'>&mdash; _Sencha_ on March 5, 2012</small>  
   This guide describes the styling system used in Touch Charts, and provides an overview of how you can customize the look and feel of your charts to truly make them yours.
 

@@ -17,6 +17,9 @@
   
 - **(Video)** [MVC in Depth, Part 2 of 2 (41:03)](http://www.sencha.com/conference/session/mvc-in-depth-pt-2) <small style='color:#aaa;'>&mdash; _Tommy Maintz_ on December 9, 2011</small>  
   
+- **(Blog)** [A Sencha Touch MVC application with PhoneGap](http://www.sencha.com/blog/a-sencha-touch-mvc-application-with-phonegap/) <small style='color:#aaa;'>&mdash; _James Pearce_</small>  
+  Sencha Touch makes it easy to create the best touch interfaces that work on a broad range of devices — but did you know you can use PhoneGap to wrap your app for deployment in the top app stores? James Pearce is ready to show you how.
+
 - **(Blog)** [Deft JS: Loosely Coupled MVC through Dependency Injection](http://www.sencha.com/blog/deftjs-loosely-coupled-mvc-through-dependency-injection/) <small style='color:#aaa;'>&mdash; _John Yanarella_ on May 14, 2012</small>  
   
 

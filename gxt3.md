@@ -20,6 +20,9 @@
 - **(Learn)** [Running Ext GWT 2 and 3 Together](http://www.sencha.com/learn/running-ext-gwt-2-and-3-together/) <small style='color:#aaa;'>&mdash; _Darrell Meyer_ on December 15, 2011</small>  
   To allow a smooth transition from Ext GWT 2 to 3, Ext GWT lets you include both v2 and v3 components in the same application. This article explains the steps you need to take to run components from both versions at the same time.
 
+- **(Blog)** [Setting Up Your First Ext GWT Project in Eclipse](http://www.sencha.com/blog/setting-up-your-first-ext-gwt-project-in-eclipse/) <small style='color:#aaa;'>&mdash; _Brendan Coughran_ on November 10, 2010</small>  
+  For those of you just entering the Ext GWT world, this is a quick guide for setting up your first project in Eclipse.
+
 - **(Documentation)** [Sencha GXT 3 API](http://docs.sencha.com/gxt/3/) <small style='color:#aaa;'>&mdash; _docs.sencha.com_</small>  
   This document is the API specification for Sencha GXT 3.0.1.
 
@@ -30,6 +33,9 @@
 
 - **(Video)** [Ext GWT 3.0 Data Binding and Editors (30:22)](http://www.sencha.com/conference/session/ext-gwt-3.0-data-binding-and-editors) <small style='color:#aaa;'>&mdash; _Colin Alworth_ on December 21, 2011</small>  
   With the GWT Editor framework, any Java bean can have its data bound to a view. Data can be any bean-like object, POJO, AutoBean, or RF EntityProxy, as well as BaseModelData subclass, to facilitate migrating legacy code. We’ll discuss creating Editor subclasses and reusing them, as well as look at possible patterns for using the Drivers.
+
+- **(Blog)** [Build an App with Ext GWT DataProxies](http://www.sencha.com/blog/build-an-app-with-ext-gwt-dataproxies/) <small style='color:#aaa;'>&mdash; _Darrell Meyer_ on January 06, 2011</small>  
+  The Ext GWT Loading API provides a powerful and flexible design for retrieving remote content. Ext GWT team lead Darrell Meyer takes you through a demo app using DataProxies.
 
 - **(Video)** [Using UIBinder with Ext GWT 3.0 (31:02)](http://www.sencha.com/conference/session/using-uibinder-with-ext-gwt-3.0) <small style='color:#aaa;'>&mdash; _Darrell Meyer_ on December 14, 2011</small>  
   With Ext GWT 3.0 it is now possible to leverage declarative layouts with Ext GWT widgets and containers. In this session, you’ll learn how to use UIBinder within your Ext GWT application.

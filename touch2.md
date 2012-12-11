@@ -11,6 +11,9 @@
 - **(Guide)** [Getting Started with Sencha Touch 2](http://docs.sencha.com/touch/2-1/#!/guide/getting_started) <small style='color:#aaa;'>&mdash; _docs.sencha.com_</small>  
   A short introduction to what Sencha Touch is and how to use it for your first app.
 
+- **(Blog)** [What's New in Sencha Touch 2.1?](http://www.sencha.com/blog/whats-new-in-sencha-touch-21/) <small style='color:#aaa;'>&mdash; _Jamie Avins_ on October 24, 2012</small>  
+  Sencha Touch 2.1 is our next release of the Sencha mobile framework. The 2.1 release includes the following key upgrades: significant performance improvements, charting support, an advanced list component, and enhanced native support through the Sencha Mobile Packager.
+
 - **(Video)** [Why Sencha Touch Makes Sense for Large Mobile Endeavors (31:46)](http://vimeo.com/41529555) <small style='color:#aaa;'>&mdash; _Dan Menard, Erwin Nell_ on May 3, 2012</small>  
   Join Dan Menard, Software Developer at Macadamian, and Erwin Nell, Director of User Experience at Varian as they discuss why they picked Sencha Touch and the implementation process. The group will discuss why Sencha Touch was the right choice, how to extend Sencha Touch to support the vast needs of a complex electronic medical record system, and how Sencha Touch makes large-scale projects more manageable.
 
@@ -45,7 +48,8 @@
   Sencha Touch provides a list component which is ideal for presenting an index-style list of items. In this tutorial, Drew Neil ([@nelstrom](http://twitter.com/nelstrom)) walks through setting up a basic list, and shows how to add an index bar, and group items together under a marker. Also, you'll learn how to create a detail panel to reveal information about each item in the list.
 
 - **(Blog)** [Dive into DataView with Sencha Touch 2](http://www.sencha.com/blog/dive-into-dataview-with-sencha-touch-2-beta-2/) <small style='color:#aaa;'>&mdash; _Robert Dougan_ on February 8, 2012</small>  
-  
+  We're pleased to release Sencha Touch 2 beta 2, which contains around 100 improvements over beta 1. Today we’re also taking you on a detailed tour of DataView and asking for your help voting on an Android bug report.
+
 - **(Guide)** [Using AJAX with Sencha Touch 2](http://docs.sencha.com/touch/2-1/#!/guide/ajax) <small style='color:#aaa;'>&mdash; _docs.sencha.com_</small>  
   While Sencha Touch's data binding means you rarely have to interact with AJAX directly, we provide several options for making AJAX requests.
 

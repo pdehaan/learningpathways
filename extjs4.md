@@ -54,6 +54,9 @@ Typically, a Hello World program illustrates the quickest way to get anything (s
 - **(Guide)** [Components](http://docs.sencha.com/ext-js/4-1/#!/guide/components) <small style='color:#aaa;'>&mdash; _docs.sencha.com_</small>  
   A simple example, and videos, about how to create components in Ext JS.
 
+- [Ext JS 4 Grid Components](http://www.sencha.com/blog/ext-js-4-grid-components/) <small style='color:#aaa;'>&mdash; _Brian Moeskau_ on March 14, 2011</small>  
+  The grid components have been rewritten from the ground up for Ext JS 4 and will provide numerous benefits over the 3.x versions. The 4.0 grid includes greatly improved performance and flexibility, so extending it and adding new functionality will be easier than ever. Here's a rundown of the most important new features.
+
 - **(Guide)** [The Grid Component](http://docs.sencha.com/ext-js/4-1/#!/guide/grid) <small style='color:#aaa;'>&mdash; _docs.sencha.com_</small>  
   The grid provides a great way to view lots of data at once, formatted exactly how you need it.
 
@@ -66,7 +69,7 @@ Typically, a Hello World program illustrates the quickest way to get anything (s
 - **(Blog)** [Sencha Basics: An Introduction to Data Stores](http://www.sencha.com/blog/sencha-basics-an-introduction-to-data-stores/) <small style='color:#aaa;'>&mdash; _David Kaneda_</small>  
   The process of building a complex web application has evolved a lot over the past few years, largely thanks to the ever-evolving browser landscape. Many server-side and native application development paradigms &mdash; including MVC, layout systems, and data stores &mdash; are moving to frontend web technology like JavaScript. This article will take a brief, high-level, look at data stores, and how they can be used to reduce your development time and future-proof your applications.
 
-- **(Blog)** [Using Ext Loader for Your Application](http://www.sencha.com/blog/using-ext-loader-for-your-application/) <small style='color:#aaa;'>&mdash; _Jay Garcia_</small>  
+- **(Blog)** [Using Ext Loader for Your Application](http://www.sencha.com/blog/using-ext-loader-for-your-application/) <small style='color:#aaa;'>&mdash; _Jay Garcia_ on June 27, 2011</small>  
   Brand new to Ext JS 4.0 is a class Loader system that makes use of the new dependency system. These two powerful new features allow you to create extensive applications that allow the browser to download digest code as necessary.
 
 - **(Guide)** [The Form Package](http://docs.sencha.com/ext-js/4-1/#!/guide/forms) <small style='color:#aaa;'>&mdash; _docs.sencha.com_</small>  
@@ -101,8 +104,9 @@ Typically, a Hello World program illustrates the quickest way to get anything (s
   
 - **(Video)** [Debugging Your Ext JS Code (45:07)](http://docs.sencha.com/ext-js/4-1/#!/video/18080793) <small style='color:#aaa;'>&mdash; _Aaron Conran, Jarred Nicholls_</small>  
   
-- **(Blog)** [Infinite Grid Scrolling in Ext JS 4](http://www.sencha.com/blog/infinite-grid-scrolling-in-ext-js-4/) <small style='color:#aaa;'>&mdash; _Ed Spencer_</small>  
-  
+- **(Blog)** [Infinite Grid Scrolling in Ext JS 4](http://www.sencha.com/blog/infinite-grid-scrolling-in-ext-js-4/) <small style='color:#aaa;'>&mdash; _Ed Spencer_ on May 10, 2011</small>  
+  The Grid is one of the most powerful aspects of Ext JS. And in Ext JS 4, we’ve made it even more powerful, with Grids that can scroll indefinitely with an infinite amount of rows. Ed Spencer goes in depth in our latest Ext JS 4 tutorial.
+
 - **(Guide)** [Drawing and Charting](http://docs.sencha.com/ext-js/4-1/#!/guide/drawing_and_charting) <small style='color:#aaa;'>&mdash; _docs.sencha.com_</small>  
   The drawing and charting packages enable you to create cross browser and cross device graphics in a versatile way.
 

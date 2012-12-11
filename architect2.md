@@ -11,6 +11,12 @@
 - **(Guide)** [Introduction and Guided Tour](http://docs.sencha.com/architect/2/#!/guide/intro) <small style='color:#aaa;'>&mdash; _docs.sencha.com_</small>  
   Learn your way around Architect 2 with this tour of its main interface elements.
 
+- **(Blog)** [Introducing Sencha Architect 2: A Massive Upgrade of Ext Designer](http://www.sencha.com/blog/sencha-architect-html5-app-builder-for-touch-and-ext-js/) <small style='color:#aaa;'>&mdash; _Luca Candela_ on April 17, 2012</small>  
+  It is our pleasure to introduce the all-new Sencha Architect 2, building on our innovation in Ext Designer. When we started working on the next release of Ext Designer, we had very ambitious goals: we wanted to build a great visual tool to help you build web applications faster that didn't get in your way. Take a look at how far we've come.
+
+- **(Blog)** [Sencha Architect 2.1 Now Available](http://www.sencha.com/blog/sencha-architect-2-1/) <small style='color:#aaa;'>&mdash; _Phil Strong_ on August 14, 2012</small>  
+  Sencha Architect is better than ever. We're excited to announce Architect 2.1 and to share what we've been working on for the past three months. The goal for the first minor release was to improve performance and stability while continuing to add functionality that helps our developers do even more with the tool. Minor release? It sure doesn't feel that way with hundreds of bugs fixed and dozens of new features. Here's a run down of the most prominent features.
+
 - **(Video)** [Say hello to Sencha Architect, part 1 of 4 (0:41)](http://vimeo.com/40504820) <small style='color:#aaa;'>&mdash; _vimeo.com_</small>  
   Sencha Architect 2 builds on our innovative HTML5 layout tool, Ext Designer, allowing you to build Sencha Touch and Ext JS applications through drag and drop.
 
