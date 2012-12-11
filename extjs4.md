@@ -8,7 +8,7 @@
 
 ## Beginner
 
-- **(Video)** [Ext JS 4 - The Most Advanced ActionScript Framework for Web Apps (2:00)](http://docs.sencha.com/ext-js/4-1/#!/video/22863837) <small style='color:#aaa;'>&mdash; _docs.sencha.com_ on April 25, 2011</small>  
+- **(Video)** [Ext JS 4 - The Most Advanced JavaScript Framework for Web Apps (2:00)](http://docs.sencha.com/ext-js/4-1/#!/video/22863837) <small style='color:#aaa;'>&mdash; _docs.sencha.com_ on April 25, 2011</small>  
   Ext JS 4 represents a major upgrade of the flagship Sencha JavaScript framework, which is used by more than one million developers to create amazing cross-browser app experiences that execute with precision and performance. Highlights of the release include major enhancements to the drawing and charting capabilities of Ext JS, comprehensive cross-browser support, and an improved data package &mdash; all based on a modern architecture.
 
 - **(Video)** [Introducing Ext JS 4 (38:18)](http://docs.sencha.com/ext-js/4-1/#!/video/17666102) <small style='color:#aaa;'>&mdash; _docs.sencha.com_ on December 10, 2010</small>  

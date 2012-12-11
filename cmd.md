@@ -3,7 +3,7 @@
 
 ## Prerequisites
 
-- [Download Ext JS 4.1.x](undefined) <small style='color:#aaa;'></small>  
+- [Download Sencha Cmd](undefined) <small style='color:#aaa;'></small>  
   
 
 ## Beginner
