@@ -219,13 +219,13 @@ The SOAP proxy works just like the other proxies, all you need to do is configur
 
 ## Other
 
-- **(Book)** [Ext JS in Action, Second Edition (Manning Press)](http://www.manning.com/garcia3/) <small style='color:#aaa;'>&mdash; _Jesus Garcia, Jacob K. Andresen, and Grgur Grisogono_</small>  
+- **(Book)** [Ext JS in Action, Second Edition (Manning Press)](http://www.manning.com/garcia3/) <small style='color:#aaa;'>&mdash; _Jesus Garcia, Jacob K. Andresen, and Grgur Grisogono_ on February 2013</small>  
   Ext JS in Action, Second Edition teaches Ext JS from the ground up. You'll start with a quick overview of the framework and then explore the core components by diving into complete examples, engaging illustrations, and crisp, straightforward explanations. You'll feel like you have an expert guide right at your elbow teaching you important Ext techniques and offering insight into its inner workings. Along the way, you'll learn the best practices for building and scaling full-featured web applications, including how to customize and build Ext widgets.
 
-- **(Book)** [Ext JS 4 Web Application Development Cookbook (Packt Publishing)](http://www.packtpub.com/sencha-ext-js-4-web-application-development-cookbook/book) <small style='color:#aaa;'>&mdash; _Andrew Duncan, Stuart Ashworth_</small>  
+- **(Book)** [Ext JS 4 Web Application Development Cookbook (Packt Publishing)](http://www.packtpub.com/sencha-ext-js-4-web-application-development-cookbook/book) <small style='color:#aaa;'>&mdash; _Andrew Duncan, Stuart Ashworth_ on August 2012</small>  
   Ext JS 4 Web Application Development Cookbook works through the framework from the fundamentals to advanced features and application design. More than 130 detailed and practical recipes demonstrate all of the key widgets and features the framework has to offer. With this book, and the Ext JS framework, learn how to develop truly interactive and responsive web applications.
 
-- **(Book)** [Ext JS First Look (Packt Publishing)](http://www.packtpub.com/ext-js-4-first-look/book) <small style='color:#aaa;'>&mdash; _Loiane Groner_</small>  
+- **(Book)** [Ext JS First Look (Packt Publishing)](http://www.packtpub.com/ext-js-4-first-look/book) <small style='color:#aaa;'>&mdash; _Loiane Groner_ on January 2012</small>  
   Ext JS 4 First Look teaches you the main functional areas of Ext JS 4 that have significant new features, explains the new features and how to use them, while highlighting the differences between Ext JS 4 and the previous versions.
 
 

@@ -147,3 +147,12 @@
   Creating native, cross-platform mobile applications doesn't need to be any more complicated than creating a mobile web app. In this session, we will discuss using PhoneGap to create installable web apps that work seamlessly across iOS, Android, BlackBerry and other platforms. We'll look at what features of your web server you can port to the client side, and how to manage syncing with a remote server to create the best mobile experience, online or off.
 
 
+## Other
+
+- **(Book)** [Sencha Touch Mobile JavaScript Framework (Packt Publishing)](http://www.packtpub.com/sencha-touch-mobile-javascript-framework/book) <small style='color:#aaa;'>&mdash; _John E. Clark, Bryan P. Johnson_ on February 2012</small>  
+  Since its initial launch, Sencha Touch has quickly become the gold standard for developing rich mobile web applications with HTML5. Sencha Touch is the first HTML5 mobile JavaScript framework that allows you to develop mobile web apps that look and feel like native apps on both iPhone and Android touchscreen devices. Sencha Touch is the world's first application framework built specifically to leverage HTML5, CSS3 and JavaScript for the highest level of power, flexibility and optimization. It makes specific use of HTML5 to deliver components like audio and video, as well as a localStorage proxy for saving data offline. Sencha Touch also makes extensive use of CSS3 in its components and themes to provide an incredibly robust styling layer, giving you total control over the look of your application.
+
+- **(Book)** [Sencha Touch Cookbook (Packt Publishing)](http://www.packtpub.com/sencha-touch-for-creating-cross-platform-html5-apps-cookbook/book) <small style='color:#aaa;'>&mdash; _Ajit Kumar_ on December 2011</small>  
+  Sencha touch is a versatile HTML5-based framework for developing mobile web apps that look and feel native on touch screen devices, and with it you can write your code once and deploy it to both iOS and Android saving you both time and money.
+
+

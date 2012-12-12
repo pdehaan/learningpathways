@@ -56,10 +56,10 @@
 - **(App)** [CodeKit](http://incident57.com/codekit/) <small style='color:#aaa;'>&mdash; _incident57.com_</small>  
   CodeKit automatically compiles Less, Sass, Stylus, CoffeeScript, Jade & Haml files. It effortlessly combines, minifies and error-checks Javascript. It supports Compass. It even optimizes jpeg & png images, auto-reloads your browser and lets you use the same files across many projects.
 
-- **(Book)** [Sass and Compass in Action (300 pages)](http://www.manning.com/netherland/) <small style='color:#aaa;'>&mdash; _www.manning.com_</small>  
+- **(Book)** [Sass and Compass in Action (Manning Press)](http://www.manning.com/netherland/) <small style='color:#aaa;'>&mdash; _Wynn Netherland, Nathan Weizenbaum, Chris Eppstein, Brandon Mathis_ on January 2013</small>  
   Sass and Compass in Action is the definitive guide to stylesheet authoring using these two revolutionary tools. Written for both designers and developers, this book demonstrates the power of both Sass and Compass through a series of examples that address common pain points associated with traditional stylesheet authoring. The book begins with simple topics such as CSS resets and moves on to more involved topics such as grid frameworks and CSS3 vendor implementation differences.
 
-- **(Book)** [Pragmatic Guide to Sass (128 pages)](http://www.amazon.com/Pragmatic-Guide-Sass-Hampton-Catlin/dp/1934356840/) <small style='color:#aaa;'>&mdash; _www.amazon.com_</small>  
+- **(Book)** [Pragmatic Guide to Sass (The Pragmatic Programmers)](http://pragprog.com/book/pg_sass/pragmatic-guide-to-sass) <small style='color:#aaa;'>&mdash; _Hampton Catlin, Michael Lintorn Catlin_ on December 2011</small>  
   Written by Sass creator Hampton Catlin and Michael Lintorn Catlin, Pragmatic Guide to Sass shows you how to you to improve your CSS, from the basics to advanced topics, from first installation to sprucing up your buttons. You'll see how to code the right way in Sass thanks to short, clear examples. Two-page spreads show the explanation on one side and code examples on the other. You'll learn how to improve your pages in minutes."
 
 
