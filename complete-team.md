@@ -8,7 +8,7 @@
 
 ## Beginner
 
-- **(Blog)** [Introducing Sencha Complete: Team](http://www.sencha.com/blog/introducing-sencha-complete-team/) <small style='color:#aaa;'>&mdash; _Aditya Bansod_</small>  
+- **(Blog)** [Introducing Sencha Complete: Team](http://www.sencha.com/blog/introducing-sencha-complete-team/) <small style='color:#aaa;'>&mdash; _Aditya Bansod_ on September 11, 2012</small>  
   Over the last few years, we’ve been working hand in hand with our customers as they use Sencha technologies to make more complex and mission critical applications on both desktop and mobile. Sencha Complete: Team is intended to help teams of developers be more productive, connect their apps more easily to back-end data sources, and have more flexibility in deployment.
 
 - **(Learning Pathway)** [Ext JS 4 Learning Pathway](http://www.sencha.com/learn/extjs4-learning-pathway) <small style='color:#aaa;'>&mdash; _Sencha_</small>  

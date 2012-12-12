@@ -11,9 +11,10 @@
 - **(Guide)** [Introduction to Sencha Cmd](undefined) <small style='color:#aaa;'></small>  
   Introduction to using Sencha Cmd.
 
-- **(Blog)** [Behind the Sencha Command Utility and the Build Process](http://www.sencha.com/blog/behind-sencha-command-and-the-build-process/) <small style='color:#aaa;'>&mdash; _Jacky Nguyen_</small>  
-  
-- **(Blog)** [The All New Sencha Cmd](http://www.sencha.com/blog/all-new-sencha-cmd/) <small style='color:#aaa;'>&mdash; _Don Griffin_</small>  
+- **(Blog)** [Behind the Sencha Command Utility and the Build Process](http://www.sencha.com/blog/behind-sencha-command-and-the-build-process/) <small style='color:#aaa;'>&mdash; _Jacky Nguyen_ on May 02, 2012</small>  
+  The Sencha command utility is a cross-platform command line tool that helps make it easier than ever to develop applications with Sencha Touch 2. The tool consists of many useful automated tasks around the full lifecycle of your applications, from generating a fresh new project to deploying an app for production.
+
+- **(Blog)** [The All New Sencha Cmd](http://www.sencha.com/blog/all-new-sencha-cmd/) <small style='color:#aaa;'>&mdash; _Don Griffin_ on September 19, 2012</small>  
   Many exciting things have been happening internally on the build tools for Sencha frameworks.
 
 - **(Guide)** [Using Sencha Cmd with Ext JS](http://docs.sencha.com/ext-js/4-1/#!/guide/command_app) <small style='color:#aaa;'>&mdash; _docs.sencha.com_</small>  
@@ -22,7 +23,7 @@
 - **(Guide)** [Using Sencha Cmd with Sencha Touch](http://docs.sencha.com/touch/2-1/#!/guide/command_app) <small style='color:#aaa;'>&mdash; _docs.sencha.com_</small>  
   How to generate applications and automate the deployment and packaging process with Sencha Cmd.
 
-- **(Blog)** [Using Sencha Cmd and the Sencha Eclipse Plugin Together](http://www.sencha.com/blog/using-sencha-cmd-and-the-sencha-eclipse-plugin-together/) <small style='color:#aaa;'>&mdash; _Aditya Bansod_</small>  
+- **(Blog)** [Using Sencha Cmd and the Sencha Eclipse Plugin Together](http://www.sencha.com/blog/using-sencha-cmd-and-the-sencha-eclipse-plugin-together/) <small style='color:#aaa;'>&mdash; _Aditya Bansod_ on November 29, 2012</small>  
   Sencha Cmd 3.0 is the newest addition to the set of tools that make it easy to build Sencha applications. The new Cmd greatly increases the functionality of what you can do on the command line, giving you the ability to scaffold, build and minify projects.
 
 - **(Guide)** [Compiler-Friendly Code Guidelines](http://docs.sencha.com/ext-js/4-1/#!/guide/command_code) <small style='color:#aaa;'>&mdash; _docs.sencha.com_</small>  
