@@ -60,6 +60,9 @@ Typically, a Hello World program illustrates the quickest way to get anything (s
 - **(Guide)** [The Grid Component](http://docs.sencha.com/ext-js/4-1/#!/guide/grid) <small style='color:#aaa;'>&mdash; _docs.sencha.com_</small>  
   The grid provides a great way to view lots of data at once, formatted exactly how you need it.
 
+- **(Blog)** [First Look at Ext JS 4.2 Grid](http://www.sencha.com/blog/first-look-at-ext-js-4-2-grid) <small style='color:#aaa;'>&mdash; _Arthur Kay_ on December 11, 2012</small>  
+  The release of Ext JS 4.2 beta delivers significantly faster performance of our Grid component. Check out the performance enhancements we’ve made in buffered rendering that allow this feature to be used in more situations with much less configuration. Developers who build apps featuring large data sets should see a dramatic increase in responsiveness thanks to these optimizations.
+
 - **(Guide)** [Trees](http://docs.sencha.com/ext-js/4-1/#!/guide/tree) <small style='color:#aaa;'>&mdash; _docs.sencha.com_</small>  
   Tree and grid now both extend from the same base class. All of the benefits of grid can now be used on trees.
 
