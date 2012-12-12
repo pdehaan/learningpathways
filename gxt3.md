@@ -47,6 +47,8 @@ Ext GWT 2 was released prior to GWT 2.0 and thus did not have support for UiBind
 - **(Blog)** [Ext GWT 3.0 Appearance Design](http://www.sencha.com/blog/ext-gwt-3-appearance-design/) <small style='color:#aaa;'>&mdash; _Darrell Meyer_ on June 28, 2011</small>  
   With Ext GWT 3.0, we have introduced a new way of rendering the view and styling a widget. This approach, introduced by Google, is very flexible and has many advantages to the previous method. Darrell Meyer provides a glimpse into the appearance design of Ext GWT 3.0.
 
+- **(Forums)** [Sencha GXT 3.x Community Forums](http://www.sencha.com/forum/forumdisplay.php?83-Sencha-GXT-Community-Forums-(3.x)) <small style='color:#aaa;'>&mdash; _www.sencha.com_</small>  
+  
 
 ## Intermediate
 

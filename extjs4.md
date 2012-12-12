@@ -90,6 +90,10 @@ Typically, a Hello World program illustrates the quickest way to get anything (s
 - **(Video)** [Accelerate your multi-device application development with Sencha Complete (46:45)](http://vimeo.com/54618369) <small style='color:#aaa;'>&mdash; _Chris Dawes_ on November 30, 2012</small>  
   Learn how easy it is to build desktop and mobile applications with Sencha Complete. In this one-hour webinar, Sencha tech expert Chris Dawes will show you the power of using Sencha Architect, Sencha Ext JS, and Sencha Touch by building a multi-device-ready app.
 
+- **(Documentation)** [Sencha Try](http://try.sencha.com/extjs/) <small style='color:#aaa;'>&mdash; _try.sencha.com_</small>  
+  
+- **(Forums)** [Ext JS 4.x Community Forums](http://www.sencha.com/forum/forumdisplay.php?79-Ext-JS-Community-Forums-4.x) <small style='color:#aaa;'>&mdash; _www.sencha.com_</small>  
+  
 
 ## Intermediate
 

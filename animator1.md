@@ -125,4 +125,6 @@
 - **(Blog)** [Create a Small Interactive Application with Sencha Animator](http://www.sencha.com/blog/interactive-application-with-sencha-animator/) <small style='color:#aaa;'>&mdash; _Arne Bech_ on February 29, 2012</small>  
   This tutorial shows you how to build a full-screen interactive quiz for iPhone based on open web standards using Sencha Animator. In this tutorial we will cover how to use one of the advanced features of Sencha Animator, adding custom code to a project.
 
+- **(Forums)** [Sencha Animator Forums](http://www.sencha.com/forum/forumdisplay.php?63-Sencha-Animator-Forums) <small style='color:#aaa;'>&mdash; _www.sencha.com_</small>  
+  
 

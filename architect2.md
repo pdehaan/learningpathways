@@ -17,16 +17,16 @@
 - **(Blog)** [Sencha Architect 2.1 Now Available](http://www.sencha.com/blog/sencha-architect-2-1/) <small style='color:#aaa;'>&mdash; _Phil Strong_ on August 14, 2012</small>  
   Sencha Architect is better than ever. We're excited to announce Architect 2.1 and to share what we've been working on for the past three months. The goal for the first minor release was to improve performance and stability while continuing to add functionality that helps our developers do even more with the tool. Minor release? It sure doesn't feel that way with hundreds of bugs fixed and dozens of new features. Here's a run down of the most prominent features.
 
-- **(Video)** [Say hello to Sencha Architect, part 1 of 4 (0:41)](http://vimeo.com/40504820) <small style='color:#aaa;'>&mdash; _vimeo.com_</small>  
+- **(Video)** [Say hello to Sencha Architect, Part 1 of 4 (0:41)](http://vimeo.com/40504820) <small style='color:#aaa;'>&mdash; _vimeo.com_</small>  
   Sencha Architect 2 builds on our innovative HTML5 layout tool, Ext Designer, allowing you to build Sencha Touch and Ext JS applications through drag and drop.
 
-- **(Video)** [Say hello to Sencha Architect, part 2 of 4 (0:44)](http://vimeo.com/40499741) <small style='color:#aaa;'>&mdash; _vimeo.com_</small>  
+- **(Video)** [Say hello to Sencha Architect, Part 2 of 4 (0:44)](http://vimeo.com/40499741) <small style='color:#aaa;'>&mdash; _vimeo.com_</small>  
   Sencha Architect 2 builds on our innovative HTML5 layout tool, Ext Designer, allowing you to build Sencha Touch and Ext JS applications through drag and drop.
 
-- **(Video)** [Say hello to Sencha Architect, part 3 of 4 (1:03)](http://vimeo.com/40500373) <small style='color:#aaa;'>&mdash; _vimeo.com_</small>  
+- **(Video)** [Say hello to Sencha Architect, Part 3 of 4 (1:03)](http://vimeo.com/40500373) <small style='color:#aaa;'>&mdash; _vimeo.com_</small>  
   Sencha Architect 2 builds on our innovative HTML5 layout tool, Ext Designer, allowing you to build Sencha Touch and Ext JS applications through drag and drop.
 
-- **(Video)** [Say hello to Sencha Architect, part 4 of 4 (0:58)](http://vimeo.com/40500092) <small style='color:#aaa;'>&mdash; _vimeo.com_</small>  
+- **(Video)** [Say hello to Sencha Architect, Part 4 of 4 (0:58)](http://vimeo.com/40500092) <small style='color:#aaa;'>&mdash; _vimeo.com_</small>  
   Sencha Architect 2 builds on our innovative HTML5 layout tool, Ext Designer, allowing you to build Sencha Touch and Ext JS applications through drag and drop.
 
 - **(Guide)** [Project Basics](http://docs.sencha.com/architect/2/#!/guide/project_basics) <small style='color:#aaa;'>&mdash; _docs.sencha.com_</small>  
@@ -128,8 +128,10 @@
 - **(Guide)** [Publishing, Packaging, and Simulating a Project](http://docs.sencha.com/architect/2/#!/guide/deploy) <small style='color:#aaa;'>&mdash; _docs.sencha.com_</small>  
   How to deploy a project and package and simulate Sencha Touch projects.
 
-- **(Forums)** [Sencha Architect 2.x Forums](http://www.sencha.com/forum/forumdisplay.php?99-Sencha-Architect-Forums-2.x) <small style='color:#aaa;'>&mdash; _www.sencha.com_</small>  
+- **(Documentation)** [Sencha Architect 2 Documentation](http://docs.sencha.com/architect/2/) <small style='color:#aaa;'>&mdash; _docs.sencha.com_</small>  
   
 - **(Examples)** [Sencha Architect Examples](https://github.com/SenchaArchitect) <small style='color:#aaa;'>&mdash; _github.com_</small>  
+  
+- **(Forums)** [Sencha Architect 2.x Forums](http://www.sencha.com/forum/forumdisplay.php?99-Sencha-Architect-Forums-2.x) <small style='color:#aaa;'>&mdash; _www.sencha.com_</small>  
   
 

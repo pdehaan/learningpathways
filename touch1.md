@@ -128,6 +128,8 @@
 - **(Video)** [SenchaCon 2010: Theming Sencha Touch (46:06)](http://docs.sencha.com/touch/1-1/#!/video/17879651) <small style='color:#aaa;'>&mdash; _David Kaneda_ on December 16, 2010</small>  
   Sencha Touch features a novel theming system built on top of SASS & Compass. This session will show you how to quickly customize the look and feel of your application, extend core styles, and optimize your stylesheets to download faster. Lot of code samples and walkthroughs included.
 
+- **(Forums)** [Sencha Touch 1.x Forums](http://www.sencha.com/forum/forumdisplay.php?56-Sencha-Touch-1.x-Forums) <small style='color:#aaa;'>&mdash; _www.sencha.com_</small>  
+  
 
 ## Advanced
 

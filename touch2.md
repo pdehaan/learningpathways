@@ -34,7 +34,7 @@
 - **(Video)** [Intro to Layouts in Sencha Touch 2 (9:31)](http://docs.sencha.com/touch/2-1/#!/video/layouts) <small style='color:#aaa;'>&mdash; _Drew Neil_ on March 7, 2012</small>  
   In Sencha Touch, the Component and Container form the basic building blocks for creating an interface. Each container can be assigned a Layout which handles the positioning of its inner items. The layouts work either by neatly arranging components to use the available space, or by showing just one component at a time and providing some way of changing the focus between them.
 
-- **(Documentation)** [Sencha Touch 2.0 API documentation](http://docs.sencha.com/touch/2-1/#!/api) <small style='color:#aaa;'>&mdash; _docs.sencha.com_</small>  
+- **(Documentation)** [Sencha Touch 2.1 API Documentation](http://docs.sencha.com/touch/2-1/#!/api) <small style='color:#aaa;'>&mdash; _docs.sencha.com_</small>  
   
 - **(Documentation)** [Sencha Try](http://try.sencha.com/touch/) <small style='color:#aaa;'>&mdash; _try.sencha.com_</small>  
   
@@ -128,6 +128,8 @@
 - **(Learn)** [Theming Sencha Applications Learning Pathway](/learn/theming/) <small style='color:#aaa;'></small>  
   
 - **(Learn)** [Sencha Cmd Learning Pathway](/learn/cmd/) <small style='color:#aaa;'></small>  
+  
+- **(Forums)** [Sencha Touch 2.x Forums](http://www.sencha.com/forum/forumdisplay.php?89-Sencha-Touch-2.x-Forums) <small style='color:#aaa;'>&mdash; _www.sencha.com_</small>  
   
 
 ## Advanced

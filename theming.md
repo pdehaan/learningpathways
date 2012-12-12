@@ -14,7 +14,7 @@
 - **(Slides)** [Theming Sencha Touch](http://slideshare.net/senchainc/theming-sencha-touch) <small style='color:#aaa;'>&mdash; _David Kaneda_ on November 29, 2010</small>  
   Sencha Touch features a novel theming system built on top of Sass & Compass. This session will show you how to quickly customize the look and feel of your application, extend core styles, and optimize your stylesheets to download faster. Lot of code samples and walkthroughs included.
 
-- **(Video)** [Theming Sencha Touch](http://docs.sencha.com/touch/2-0/#!/video/theming) <small style='color:#aaa;'>&mdash; _Drew Neil_ on February 16, 2012</small>  
+- **(Video)** [Theming Sencha Touch (9:36)](http://docs.sencha.com/touch/2-0/#!/video/theming) <small style='color:#aaa;'>&mdash; _Drew Neil_ on February 16, 2012</small>  
   Drew Neil ([@nelstrom](http://twitter.com/nelstrom)) describes how to theme Sencha Touch. This tutorial is perfect for beginners who want to get started customizing the interface of their Sencha Touch mobile app using CSS 3 and Sass/SCSS.
 
 - **(Guide)** [Theming Ext JS](http://docs.sencha.com/ext-js/4-1/#!/guide/theming) <small style='color:#aaa;'>&mdash; _docs.sencha.com_</small>  
