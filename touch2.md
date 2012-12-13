@@ -1,9 +1,10 @@
 # Sencha Touch 2 Learning Pathway
+The following learning pathway will help you get started with building mobile HTML5 applications using Sencha Touch 2.
 
 
 ## Prerequisites
 
-- [Download Sencha Touch 2](http://www.sencha.com/products/touch/download/) <small style='color:#aaa;'>&mdash; _Sencha Inc_</small>  
+- **(Download)** [Download Sencha Touch 2](http://www.sencha.com/products/touch/download/) <small style='color:#aaa;'>&mdash; _Sencha_</small>  
   
 
 ## Beginner
@@ -17,7 +18,7 @@
 - **(Video)** [Why Sencha Touch Makes Sense for Large Mobile Endeavors (31:46)](http://vimeo.com/41529555) <small style='color:#aaa;'>&mdash; _Dan Menard, Erwin Nell_ on May 3, 2012</small>  
   Join Dan Menard, Software Developer at Macadamian, and Erwin Nell, Director of User Experience at Varian as they discuss why they picked Sencha Touch and the implementation process. The group will discuss why Sencha Touch was the right choice, how to extend Sencha Touch to support the vast needs of a complex electronic medical record system, and how Sencha Touch makes large-scale projects more manageable.
 
-- **(Learn)** [Hello World Sencha Touch Tutorial](http://www.sencha.com/learn/hello-world/) <small style='color:#aaa;'>&mdash; _Peter deHaan_ on Mar 21, 2012</small>  
+- **(Tutorial)** [Hello World Sencha Touch Tutorial](http://www.sencha.com/learn/hello-world/) <small style='color:#aaa;'>&mdash; _Peter deHaan_ on March 21, 2012</small>  
   
 - **(Guide)** [Building your First App](http://docs.sencha.com/touch/2-1/#!/guide/first_app) <small style='color:#aaa;'>&mdash; _docs.sencha.com_</small>  
   How to build your first app in 15 minutes flat. Includes a simple HTML page, a contact form and a blog feed.
@@ -85,7 +86,7 @@
 - **(Video)** [Accelerate your multi-device application development with Sencha Complete (46:45)](http://vimeo.com/54618369) <small style='color:#aaa;'>&mdash; _Chris Dawes_ on November 30, 2012</small>  
   Learn how easy it is to build desktop and mobile applications with Sencha Complete. In this one-hour webinar, Sencha tech expert Chris Dawes will show you the power of using Sencha Architect, Sencha Ext JS, and Sencha Touch by building a multi-device-ready app.
 
-- **(Learn)** [Architecting Sencha Apps using MVC Learning Pathway](/learn/mvc) <small style='color:#aaa;'></small>  
+- **(Learning Pathway)** [Architecting Sencha Apps using MVC Learning Pathway](/learn/mvc) <small style='color:#aaa;'>&mdash; _Sencha_</small>  
   
 - **(Blog)** [Building Sencha Touch Custom Components, Part 1 of 3](http://www.sencha.com/blog/building-sencha-touch-customer-components-part-1/) <small style='color:#aaa;'>&mdash; _Andrea Cammarata_ on November 14, 2012</small>  
   We've heard developers ask for more tutorials and guides for our frameworks, and today we’re walking through Sencha Touch component creation. I was recently asked to create an HTML5 component that would allow users to hear a preview of an audio track and show its progress inside a circular progress bar, similar to the iOS component.
@@ -123,11 +124,11 @@
 - **(Blog)** [Building SharePoint Web Apps using Sencha Touch](http://www.sencha.com/blog/building-sharepoint-web-apps-using-sencha-touch/) <small style='color:#aaa;'>&mdash; _Luc Stakenborg_ on April 10, 2012</small>  
   In this post we will explore how to build a SharePoint mobile web app using the Sencha Touch mobile JavaScript framework for HTML5 apps.
 
-- **(Learn)** [Testing Sencha Apps Learning Pathway](/learn/testing/) <small style='color:#aaa;'></small>  
+- **(Learning Pathway)** [Testing Sencha Apps Learning Pathway](/learn/testing/) <small style='color:#aaa;'>&mdash; _Sencha_</small>  
   
-- **(Learn)** [Theming Sencha Applications Learning Pathway](/learn/theming/) <small style='color:#aaa;'></small>  
+- **(Learning Pathway)** [Theming Sencha Applications Learning Pathway](/learn/theming/) <small style='color:#aaa;'>&mdash; _Sencha_</small>  
   
-- **(Learn)** [Sencha Cmd Learning Pathway](/learn/cmd/) <small style='color:#aaa;'></small>  
+- **(Learning Pathway)** [Sencha Cmd Learning Pathway](/learn/cmd/) <small style='color:#aaa;'>&mdash; _Sencha_</small>  
   
 - **(Forums)** [Sencha Touch 2.x Forums](http://www.sencha.com/forum/forumdisplay.php?89-Sencha-Touch-2.x-Forums) <small style='color:#aaa;'>&mdash; _www.sencha.com_</small>  
   

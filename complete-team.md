@@ -1,9 +1,10 @@
 # Sencha Complete: Team Learning Pathway
+The following learning pathway will help you get started building mobile and desktop HTML5 applications using the Sencha Complete: Team suite.
 
 
 ## Prerequisites
 
-- [Download Sencha Complete: Team](http://www.sencha.com/products/complete-team/evaluate) <small style='color:#aaa;'>&mdash; _Sencha_</small>  
+- **(Download)** [Download Sencha Complete: Team](http://www.sencha.com/products/complete-team/evaluate) <small style='color:#aaa;'>&mdash; _Sencha_</small>  
   
 
 ## Beginner

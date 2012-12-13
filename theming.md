@@ -1,9 +1,10 @@
 # Theming Sencha Applications Learning Pathway
+The following learning pathway will help you style and theme your Sencha applications using Sass and Compass.
 
 
 ## Prerequisites
 
-- [Download Sass](http://sass-lang.com/download.html) <small style='color:#aaa;'>&mdash; _sass-lang.com_</small>  
+- **(Download)** [Download Sass](http://sass-lang.com/download.html) <small style='color:#aaa;'>&mdash; _sass-lang.com_</small>  
   
 
 ## Beginner

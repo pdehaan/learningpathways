@@ -1,4 +1,5 @@
-# Mirgrating Ext JS Applications Learning Pathway
+# Migrating Ext JS Applications Learning Pathway
+The following learning pathway shows how you can migrate your Sencha Ext JS applications from Ext JS 3 to Ext JS 4.x.
 
 
 ## Beginner

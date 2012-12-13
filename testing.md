@@ -1,4 +1,5 @@
 # Testing Sencha Applications Learning Pathway
+The following learning pathway will help you get started unit testing your mobile and desktop applications. 
 
 
 ## Beginner

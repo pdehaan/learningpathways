@@ -1,9 +1,10 @@
 # Sencha Cmd Learning Pathway
+The following learning pathway will help you get started scaffolding a new project, minifying, and deploying your application to production using Sencha Cmd.
 
 
 ## Prerequisites
 
-- [Download Sencha Cmd](undefined) <small style='color:#aaa;'></small>  
+- **(Download)** [Download Sencha Cmd](undefined) <small style='color:#aaa;'>&mdash; _Sencha_</small>  
   
 
 ## Beginner

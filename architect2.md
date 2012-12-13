@@ -1,9 +1,10 @@
 # Sencha Architect 2 Learning Pathway
+The following learning pathway will help you get started with building mobile and desktop applications using Sencha Architect.
 
 
 ## Prerequisites
 
-- [Download Sencha Architect 2](http://www.sencha.com/products/architect/download/) <small style='color:#aaa;'>&mdash; _www.sencha.com_</small>  
+- **(Download)** [Download Sencha Architect 2](http://www.sencha.com/products/architect/download/) <small style='color:#aaa;'>&mdash; _Sencha_</small>  
   
 
 ## Beginner

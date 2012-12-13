@@ -1,4 +1,5 @@
 # Architecting Sencha Apps using MVC Learning Pathway
+The following learning pathway helps you get started building Sencha applications using the MVC pattern.
 
 
 ## Beginner

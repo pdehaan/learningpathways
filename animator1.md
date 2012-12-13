@@ -1,9 +1,10 @@
 # Sencha Animator Learning Pathway
+The following learning pathway will help get you started creating CSS3-based animations using Sencha Animator.
 
 
 ## Prerequisites
 
-- [Download Sencha Animator](http://www.sencha.com/products/animator/download/) <small style='color:#aaa;'>&mdash; _www.sencha.com_</small>  
+- **(Download)** [Download Sencha Animator](http://www.sencha.com/products/animator/download/) <small style='color:#aaa;'>&mdash; _Sencha_</small>  
   
 
 ## Beginner

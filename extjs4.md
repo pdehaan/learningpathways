@@ -1,9 +1,10 @@
 # Ext JS 4 Learning Pathway
+The following learning pathway will help you get started building MVC-based Web applications using the Sencha Ext JS framework.
 
 
 ## Prerequisites
 
-- [Download Ext JS 4](http://www.sencha.com/products/extjs/download/) <small style='color:#aaa;'>&mdash; _www.sencha.com_</small>  
+- **(Download)** [Download Ext JS 4](http://www.sencha.com/products/extjs/download/) <small style='color:#aaa;'>&mdash; _Sencha_</small>  
   
 
 ## Beginner
@@ -24,7 +25,7 @@ Typically, a Hello World program illustrates the quickest way to get anything (s
 - **(Guide)** [Getting Started with Ext JS 4](http://docs.sencha.com/ext-js/4-1/#!/guide/getting_started) <small style='color:#aaa;'>&mdash; _docs.sencha.com_</small>  
   This introduction to Ext JS 4 explains how you can get started with creating your first application.
 
-- **(Article)** [Ext JS Essentials](http://www.sencha.com/learn/ext-js-essentials) <small style='color:#aaa;'>&mdash; _Brian Moeskau_ on July 11, 2011</small>  
+- **(Tutorial)** [Ext JS Essentials](http://www.sencha.com/learn/ext-js-essentials) <small style='color:#aaa;'>&mdash; _Brian Moeskau_ on July 11, 2011</small>  
   Anyone new to using the Ext library or trying to learn more about it has come to the right place. This tutorial will walk through Ext basic concepts and how to get a dynamic page up and running quickly. It is assumed that the reader has some Javascript experience and a basic understanding of the HTML document object model (DOM). If not, you may want to begin with some general references first.
 
 - **(Guide)** [The Class System](http://docs.sencha.com/ext-js/4-1/#!/guide/class_system) <small style='color:#aaa;'>&mdash; _docs.sencha.com_</small>  
@@ -54,7 +55,7 @@ Typically, a Hello World program illustrates the quickest way to get anything (s
 - **(Guide)** [Components](http://docs.sencha.com/ext-js/4-1/#!/guide/components) <small style='color:#aaa;'>&mdash; _docs.sencha.com_</small>  
   A simple example, and videos, about how to create components in Ext JS.
 
-- **(blog)** [Ext JS 4 Grid Components](http://www.sencha.com/blog/ext-js-4-grid-components/) <small style='color:#aaa;'>&mdash; _Brian Moeskau_ on March 14, 2011</small>  
+- **(Blog)** [Ext JS 4 Grid Components](http://www.sencha.com/blog/ext-js-4-grid-components/) <small style='color:#aaa;'>&mdash; _Brian Moeskau_ on March 14, 2011</small>  
   The grid components have been rewritten from the ground up for Ext JS 4 and will provide numerous benefits over the 3.x versions. The 4.0 grid includes greatly improved performance and flexibility, so extending it and adding new functionality will be easier than ever. Here's a rundown of the most important new features.
 
 - **(Guide)** [The Grid Component](http://docs.sencha.com/ext-js/4-1/#!/guide/grid) <small style='color:#aaa;'>&mdash; _docs.sencha.com_</small>  
@@ -97,17 +98,17 @@ Typically, a Hello World program illustrates the quickest way to get anything (s
 
 ## Intermediate
 
-- **(Learn)** [Migrating Ext JS Apps Learning Pathway](/learn/migrating-extjs) <small style='color:#aaa;'></small>  
+- **(Learning Pathway)** [Migrating Ext JS Apps Learning Pathway](/learn/migrating-extjs) <small style='color:#aaa;'>&mdash; _Sencha_</small>  
   
 - **(Documentation)** [Ext JS API Documentation](http://docs.sencha.com/ext-js/4-1/#!/api) <small style='color:#aaa;'>&mdash; _docs.sencha.com_</small>  
   
 - **(Video)** [Creating Ext JS Extensions and Components (46:32)](http://docs.sencha.com/ext-js/4-1/#!/video/17920271) <small style='color:#aaa;'>&mdash; _Mats Bryntse_ on December 17, 2010</small>  
   One of the great benefits of developing in Ext JS is its clean extensibility. This lets you create reusable components easily that other developers can simply drop into their own applications with minimal effort. In this session, you'll learn how to create a re-usable component for Ext JS, and I'll describe my own experience creating Ext Scheduler - the scheduling component for Ext JS. 
 
-- **(Guides)** [Keyboard Navigation](http://docs.sencha.com/ext-js/4-1/#!/guide/keyboard_nav) <small style='color:#aaa;'>&mdash; _docs.sencha.com_</small>  
+- **(Guide)** [Keyboard Navigation](http://docs.sencha.com/ext-js/4-1/#!/guide/keyboard_nav) <small style='color:#aaa;'>&mdash; _docs.sencha.com_</small>  
   This guide explains how to use the keyboard navigation system.
 
-- **(Learn)** [Architecting Sencha Apps using MVC Learning Pathway](/learn/mvc) <small style='color:#aaa;'></small>  
+- **(Learning Pathway)** [Architecting Sencha Apps using MVC Learning Pathway](/learn/mvc) <small style='color:#aaa;'>&mdash; _Sencha_</small>  
   
 - **(Video)** [Debugging Your Ext JS Code (45:07)](http://docs.sencha.com/ext-js/4-1/#!/video/18080793) <small style='color:#aaa;'>&mdash; _Aaron Conran, Jarred Nicholls_ on December 22, 2010</small>  
   
@@ -168,7 +169,7 @@ Typically, a Hello World program illustrates the quickest way to get anything (s
 - **(Community)** [Expert Ext JS: Model Integration in Forms](http://moduscreate.com/expert-ext-js-model-integration-in-forms/) <small style='color:#aaa;'>&mdash; _Aaron Smith_ on June 11, 2012</small>  
   In Ext JS 4, the data package received a lot of attention and the improvements made were, for the most part, quite impressive. However, the ...
 
-- **(Learn)** [Theming Sencha Apps Learning Pathway](/learn/theming) <small style='color:#aaa;'></small>  
+- **(Learning Pathway)** [Theming Sencha Apps Learning Pathway](/learn/theming) <small style='color:#aaa;'>&mdash; _Sencha_</small>  
   
 - **(Video)** [Ext JS 4: Advanced Expert Techniques (47:23)](http://www.sencha.com/conference/session/ext-js-4-advanced-expert-techniques) <small style='color:#aaa;'>&mdash; _Rich Waters_ on December 11, 2011</small>  
   This session will take a detailed look into a variety of internal and less known properties of Ext JS. Topics range from component lifecycles to properties such as renderTpl, renderSelectors, childEls, renderData, and mon. Other topics include delegated events (where the framework utilizes it, and where you should be using them in your code) and many useful utility classes like MixedCollection, DelayedTask, TaskRunner, and more.
@@ -213,12 +214,12 @@ The SOAP proxy works just like the other proxies, all you need to do is configur
 - **(Video)** [JavaScript: Advanced Scoping &amp; Other Puzzles (46:05)](http://docs.sencha.com/ext-js/4-1/#!/video/18312985) <small style='color:#aaa;'>&mdash; _Doug Hendricks_ on December 30, 2010</small>  
   In this session, we'll review the fundamentals of JavaScript variable scope and common "execution context" (scope) challenges associated with early/late binding of event handlers, specifically within complex Ext JS layouts. We'll also bring several patterns (namespaced references, Function closures, inline references, ref/refOwner, and the "Poor-man's message bus") to bear on the bowl of soup we call "scope."
 
-- **(Learn)** [Testing Sencha Apps Learning Pathway](/learn/testing) <small style='color:#aaa;'></small>  
+- **(Learning Pathway)** [Testing Sencha Apps Learning Pathway](/learn/testing) <small style='color:#aaa;'>&mdash; _Sencha_</small>  
   
 - **(Video)** [Designing for Accessibility with ARIA (36:38)](http://docs.sencha.com/ext-js/4-1/#!/video/17840717) <small style='color:#aaa;'>&mdash; _Aaron Conran_ on December 15, 2010</small>  
   ARIA is an accessibility standard that provides capabilities such as screen-reader access to application functionality. During this session, we'll take a tour of the latest accessibility enhancements to Ext JS and Ext GWT including improved keyboard navigation, ARIA and focus management. We'll also discuss how government standards like Section 508 may apply to your organization.
 
-- **(Learn)** [Sencha Cmd Learning Pathway](/learn/cmd) <small style='color:#aaa;'></small>  
+- **(Learning Pathway)** [Sencha Cmd Learning Pathway](/learn/cmd) <small style='color:#aaa;'>&mdash; _Sencha_</small>  
   
 
 ## Other

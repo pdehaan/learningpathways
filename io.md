@@ -1,9 +1,10 @@
 # Sencha.io Learning Pathway
+The following learning pathway will help you get started with the complete cloud platform, Sencha.io, to build mobile web apps using services like Data, Login, Messages and Deployment.
 
 
 ## Prerequites
 
-- [Download Sencha.io SDK](http://download.sencha.io/) <small style='color:#aaa;'>&mdash; _download.sencha.io_</small>  
+- **(Download)** [Download Sencha.io SDK](http://download.sencha.io/) <small style='color:#aaa;'>&mdash; _download.sencha.io_</small>  
   
 - [Sencha.io Dashboard](http://developer.sencha.io/) <small style='color:#aaa;'>&mdash; _developer.sencha.io_</small>  
   

@@ -1,9 +1,10 @@
 # Sencha Touch 1 Learning Pathway
+The following learning pathway will help you get started with building mobile HTML5 applications using Sencha Touch 1.
 
 
 ## Prerequisites
 
-- [Download Sencha Touch](undefined) <small style='color:#aaa;'></small>  
+- **(Download)** [Download Sencha Touch](undefined) <small style='color:#aaa;'>&mdash; _Sencha_</small>  
   
 
 ## Beginner
@@ -60,7 +61,7 @@
 
 - **(Documentation)** [Sencha Touch 1.1 API Documentation](http://docs.sencha.com/touch/1-1/#!/api) <small style='color:#aaa;'>&mdash; _docs.sencha.com_</small>  
   
-- **(Learning Pathway)** [Sencha Touch Charts Learning Pathway](learn/touch1-charts) <small style='color:#aaa;'></small>  
+- **(Learning Pathway)** [Sencha Touch Charts Learning Pathway](learn/touch1-charts) <small style='color:#aaa;'>&mdash; _Sencha_</small>  
   
 - **(Video)** [An Introduction to the Kitchen Sink (7:22)](http://www.sencha.com/learn/an-introduction-to-the-kitchen-sink/) <small style='color:#aaa;'>&mdash; _Michael Mullany_ on July 13, 2011</small>  
   Michael Mullany runs through an early beta version of the Sencha Touch Kitchen Sink app, demonstrating many of the core capabilities of the framework.

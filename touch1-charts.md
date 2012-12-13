@@ -1,9 +1,10 @@
 # Sencha Touch Charts Learning Pathway
+The following learning pathway will help you get started building rich, interactive charts in Sencha Touch 1.x using Sencha Touch Charts.
 
 
 ## Prerequisites
 
-- [Download Sencha Touch](undefined) <small style='color:#aaa;'></small>  
+- **(Download)** [Download Sencha Touch](undefined) <small style='color:#aaa;'>&mdash; _Sencha_</small>  
   
 
 ## Beginner

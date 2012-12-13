@@ -1,9 +1,10 @@
 # Sencha GXT Learning Pathway
+The following learning pathway will help you get started using Sencha GXT, an enterprise class UI framework, to build amazing HTML5 web apps using Java.
 
 
 ## Prerequisites
 
-- [Download Sencha GXT](http://www.sencha.com/products/gxt/download/) <small style='color:#aaa;'>&mdash; _www.sencha.com_</small>  
+- **(Download)** [Download Sencha GXT](http://www.sencha.com/products/gxt/download/) <small style='color:#aaa;'>&mdash; _Sencha_</small>  
   
 
 ## Beginner
@@ -17,7 +18,7 @@
 - **(Video)** [Migrating from Ext GWT 2.x to 3.0 (33:31)](http://www.sencha.com/conference/session/migrating-from-ext-gwt-2.x-to-3.0) <small style='color:#aaa;'>&mdash; _Darrell Meyer_ on December 13, 2011</small>  
   Looking to move to Ext GWT 3.0 from 2.x? This session will walk through the important API changes to help make the migration as straightforward as possible.
 
-- **(Learn)** [Running Ext GWT 2 and 3 Together](http://www.sencha.com/learn/running-ext-gwt-2-and-3-together/) <small style='color:#aaa;'>&mdash; _Darrell Meyer_ on December 15, 2011</small>  
+- **(Tutorial)** [Running Ext GWT 2 and 3 Together](http://www.sencha.com/learn/running-ext-gwt-2-and-3-together/) <small style='color:#aaa;'>&mdash; _Darrell Meyer_ on December 15, 2011</small>  
   To allow a smooth transition from Ext GWT 2 to 3, Ext GWT lets you include both v2 and v3 components in the same application. This article explains the steps you need to take to run components from both versions at the same time.
 
 - **(Blog)** [Setting Up Your First Ext GWT Project in Eclipse](http://www.sencha.com/blog/setting-up-your-first-ext-gwt-project-in-eclipse/) <small style='color:#aaa;'>&mdash; _Brendan Coughran_ on November 10, 2010</small>  
@@ -40,7 +41,7 @@
 - **(Video)** [Using UIBinder with Ext GWT 3.0 (31:02)](http://www.sencha.com/conference/session/using-uibinder-with-ext-gwt-3.0) <small style='color:#aaa;'>&mdash; _Darrell Meyer_ on December 14, 2011</small>  
   With Ext GWT 3.0 it is now possible to leverage declarative layouts with Ext GWT widgets and containers. In this session, you’ll learn how to use UIBinder within your Ext GWT application.
 
-- **(Learn)** [Ext GWT 3 Declarative Markup with UiBinder](http://www.sencha.com/learn/ext-gwt-3-declarative-markup-with-uibinder/) <small style='color:#aaa;'>&mdash; _Justin Hickman_ on October 18, 2011</small>  
+- **(Tutorial)** [Ext GWT 3 Declarative Markup with UiBinder](http://www.sencha.com/learn/ext-gwt-3-declarative-markup-with-uibinder/) <small style='color:#aaa;'>&mdash; _Justin Hickman_ on October 18, 2011</small>  
   The GWT 2.0 release introduced the ability to construct user interfaces in a declarative way using XML files. To support UiBinder in Widgets, several conventions had to be followed. These include implementing HasWidgets to allow a Widget to behave as a container, implementing HasHTML to allow raw HTML directly in panels, and adding @UiConstructor and @UiChild annotations in Widgets to support custom behavior.
 Ext GWT 2 was released prior to GWT 2.0 and thus did not have support for UiBinder. UiBinder support has been one of the major driving factors for many of the API changes in Ext GWT 3.0.
 
