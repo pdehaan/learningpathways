@@ -4,7 +4,7 @@ The following learning pathway will help you get started building rich, interact
 
 ## Prerequisites
 
-- **(Download)** [Download Sencha Touch](undefined) <small style='color:#aaa;'>&mdash; _Sencha_</small>    
+- **(Download)** [Download Sencha Touch](http://www.sencha.com/products/touch/download) <small style='color:#aaa;'>&mdash; _Sencha_</small>    
     
 
 ## Beginner

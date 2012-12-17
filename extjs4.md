@@ -148,25 +148,25 @@ Typically, a Hello World program illustrates the quickest way to get anything (s
 - **(Blog)** [Optimizing Ext JS 4.1-based Applications](http://www.sencha.com/blog/optimizing-ext-js-4-1-based-applications/) <small style='color:#aaa;'>&mdash; _Don Griffin_ on March 1, 2012</small>    
     Sencha improved performance with Ext JS 4.1, but when it comes to optimal performance of Ext JS-based applications, that's only part of the battle. The rest comes from optimizing applications for performance, which often includes making a few changes so your code can take advantage of Ext JS enhancements.
 
-- **(Community)** [JavaScript Performance Tips &amp; Tricks](http://moduscreate.com/javascript-performance-tips-tricks/) <small style='color:#aaa;'>&mdash; _Grgur Grisogono_ on July 31, 2012</small>    
+- **(Community)** [JavaScript Performance Tips &amp; Tricks](http://moduscreate.com/javascript-performance-tips-tricks/) <small style='color:#aaa;'>&mdash; _Grgur Grisogono (moduscreate.com)_ on July 31, 2012</small>    
     Some say spending time developing for performance is not worth it when hardware upgrades are usually a cheaper alternative. If I would tell them that spending 10 minutes reading this could save more than 50 new upgrades with simple code improvements that account for a 50x+ performance increase, do you think they would listen?
 
-- **(Community)** [JavaScript Performance Tips (Video) (36:39)](http://moduscreate.com/javascript-performance-tips-video/) <small style='color:#aaa;'>&mdash; _Jay Garcia_ on October 8, 2012</small>    
+- **(Community)** [JavaScript Performance Tips (Video) (36:39)](http://moduscreate.com/javascript-performance-tips-video/) <small style='color:#aaa;'>&mdash; _Jay Garcia (moduscreate.com)_ on October 8, 2012</small>    
     Filmed at our NoVa JS meetup on 10/2/2012, Grgur Grisogono discusses JavaScript Performance tips. This video goes along with Grgur’s recent ...
 
-- **(Community)** [localStorage Caching of Reference Data with ExtJS](http://moduscreate.com/localstorage-caching-of-reference-data-with-extjs/) <small style='color:#aaa;'>&mdash; _Aaron Smith_ on October 15, 2012</small>    
+- **(Community)** [localStorage Caching of Reference Data with ExtJS](http://moduscreate.com/localstorage-caching-of-reference-data-with-extjs/) <small style='color:#aaa;'>&mdash; _Aaron Smith (moduscreate.com)_ on October 15, 2012</small>    
     Do you have a ton of reference data that needs to load with your app? Lots of combo boxes with mostly static data? Previously I had used a custom ...
 
-- **(Community)** [Expert Ext JS: Reading and Writing Structured Data](http://moduscreate.com/expert-ext-js-reading-and-writing-structured-data/) <small style='color:#aaa;'>&mdash; _Aaron Smith_ on July 9, 2012</small>    
+- **(Community)** [Expert Ext JS: Reading and Writing Structured Data](http://moduscreate.com/expert-ext-js-reading-and-writing-structured-data/) <small style='color:#aaa;'>&mdash; _Aaron Smith (moduscreate.com)_ on July 9, 2012</small>    
     Often times front-end developers don't have the option to change server-side behavior. This can be highly frustrating. I'll discuss a few ...
 
-- **(Community)** [Expert Ext JS: Managing Model Associations Across Independent API Calls](http://moduscreate.com/expert-ext-js-managing-model-associations-across-independent-api-calls/) <small style='color:#aaa;'>&mdash; _Aaron Smith_ on July 9, 2012</small>    
+- **(Community)** [Expert Ext JS: Managing Model Associations Across Independent API Calls](http://moduscreate.com/expert-ext-js-managing-model-associations-across-independent-api-calls/) <small style='color:#aaa;'>&mdash; _Aaron Smith (moduscreate.com)_ on July 9, 2012</small>    
     A few weeks back, Rob Boerman reached out to us with questions about creating linkages between models. As our de facto Associations expert, I ...
 
-- **(Community)** [Expert Ext JS: Associations in Forms](http://moduscreate.com/expert-ext-js-associations-in-forms/) <small style='color:#aaa;'>&mdash; _Aaron Smith_ on June 18, 2012</small>    
+- **(Community)** [Expert Ext JS: Associations in Forms](http://moduscreate.com/expert-ext-js-associations-in-forms/) <small style='color:#aaa;'>&mdash; _Aaron Smith (moduscreate.com)_ on June 18, 2012</small>    
     Associations were a major addition to the data package in Ext JS 4 and, to me at least, appeared to be a great answer to problems I had faced ...
 
-- **(Community)** [Expert Ext JS: Model Integration in Forms](http://moduscreate.com/expert-ext-js-model-integration-in-forms/) <small style='color:#aaa;'>&mdash; _Aaron Smith_ on June 11, 2012</small>    
+- **(Community)** [Expert Ext JS: Model Integration in Forms](http://moduscreate.com/expert-ext-js-model-integration-in-forms/) <small style='color:#aaa;'>&mdash; _Aaron Smith (moduscreate.com)_ on June 11, 2012</small>    
     In Ext JS 4, the data package received a lot of attention and the improvements made were, for the most part, quite impressive. However, the ...
 
 - **(Learning Pathway)** [Theming Sencha Apps Learning Pathway](/learn/theming) <small style='color:#aaa;'>&mdash; _Sencha_</small>    

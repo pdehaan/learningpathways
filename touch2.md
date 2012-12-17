@@ -97,13 +97,13 @@ The following learning pathway will help you get started with building mobile HT
 - **(Blog)** [Building Sencha Touch Custom Components, Part 3 of 3](http://www.sencha.com/blog/building-sencha-touch-custom-components-part-3/) <small style='color:#aaa;'>&mdash; _Andrea Cammarata_ on November 16, 2012</small>    
     In the final part of our tutorial series on Sencha Touch components, we'll cover styling for our Ext.tux.AudioCover component. Over the last few posts, we've walked through the component's code development, but now we want to customize our component's look.
 
-- **(Community)** [Sencha Touch 2.0 Tip: Increase the speed of your app rotation by temporarily removing DOM (4:18)](http://moduscreate.com/sencha-touch-2-0-expert-tip-how-to-increase-the-speed-of-your-app-rotation-by-temporarily-removing-dom/) <small style='color:#aaa;'>&mdash; _Jay Garcia_ on July 17, 2012</small>    
+- **(Community)** [Sencha Touch 2.0 Tip: Increase the speed of your app rotation by temporarily removing DOM (4:18)](http://moduscreate.com/sencha-touch-2-0-expert-tip-how-to-increase-the-speed-of-your-app-rotation-by-temporarily-removing-dom/) <small style='color:#aaa;'>&mdash; _Jay Garcia (moduscreate.com)_ on July 17, 2012</small>    
     In the screencast below, I demonstrate how you can increase the speed of your apps by temporarily removing DOM that is not viewed by the user. ...
 
-- **(Community)** [Sencha Touch 2.0 Tip: Make the Carousel fire show events at the proper time!](http://moduscreate.com/sencha-touch-2-0-expert-tip-make-the-carousel-fire-show-events-at-the-proper-time/) <small style='color:#aaa;'>&mdash; _Jay Garcia_ on July 16, 2012</small>    
+- **(Community)** [Sencha Touch 2.0 Tip: Make the Carousel fire show events at the proper time!](http://moduscreate.com/sencha-touch-2-0-expert-tip-make-the-carousel-fire-show-events-at-the-proper-time/) <small style='color:#aaa;'>&mdash; _Jay Garcia (moduscreate.com)_ on July 16, 2012</small>    
     Recently, I came across a requirement where I needed to know when a Sencha Touch 2.0 Carousel Item is shown to the user (active item 0) to render ...
 
-- **(Community)** [Sencha Touch 2 Touch Events Re-firing](http://moduscreate.com/sencha-touch-2-touch-events-re-firing/) <small style='color:#aaa;'>&mdash; _Stan Bershadskiy_ on July 11, 2012</small>    
+- **(Community)** [Sencha Touch 2 Touch Events Re-firing](http://moduscreate.com/sencha-touch-2-touch-events-re-firing/) <small style='color:#aaa;'>&mdash; _Stan Bershadskiy (moduscreate.com)_ on July 11, 2012</small>    
     While generally we try to avoid native browser alert() and confirm() we sometimes have no control over their use. I have come across a situation ...
 
 - **(Blog)** [Build a &quot;To Do&quot; Application with Sencha Touch, Sencha.io, and Facebook Integration](http://www.sencha.com/blog/build-a-to-do-application-with-sencha-touch-senchaio-and-facebook/) <small style='color:#aaa;'>&mdash; _Jason Cline_ on June 26, 2012</small>    

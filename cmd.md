@@ -4,12 +4,12 @@ The following learning pathway will help you get started scaffolding a new proje
 
 ## Prerequisites
 
-- **(Download)** [Download Sencha Cmd](undefined) <small style='color:#aaa;'>&mdash; _Sencha_</small>    
+- **(Download)** [Download Sencha Cmd](http://www.sencha.com/products/sencha-cmd/download) <small style='color:#aaa;'>&mdash; _Sencha_</small>    
     
 
 ## Beginner
 
-- **(Guide)** [Introduction to Sencha Cmd](undefined) <small style='color:#aaa;'></small>    
+- **(Guide)** [Introduction to Sencha Cmd](http://docs.sencha.com/ext-js/4-1/#!/guide/command) <small style='color:#aaa;'>&mdash; _docs.sencha.com_</small>    
     Introduction to using Sencha Cmd.
 
 - **(Blog)** [Behind the Sencha Command Utility and the Build Process](http://www.sencha.com/blog/behind-sencha-command-and-the-build-process/) <small style='color:#aaa;'>&mdash; _Jacky Nguyen_ on May 02, 2012</small>    
