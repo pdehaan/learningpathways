@@ -9,6 +9,9 @@ The following learning pathway will help get you started creating CSS3-based ani
 
 ## Beginner
 
+- **(Blog)** [Introducing Sencha Animator: The CSS3 Alternative to Flash](http://www.sencha.com/blog/introducing-sencha-animator-the-css3-alternative-to-flash/) <small style='color:#aaa;'>&mdash; _Michael Mullany_ on October 26, 2010</small>    
+    Today we're thrilled to announce the release of our developer preview of Sencha Animator, a new drag-and-drop tool that helps interactive designers create rich media animations for HTML5-capable devices.
+
 - **(Guide)** [Guided Tour](http://docs.sencha.com/animator/1-3/#!/guide/tour) <small style='color:#aaa;'>&mdash; _docs.sencha.com_</small>    
     Introduce yourself to the main feature groups of Animator with this tour, including hands-on simple exercises.
 

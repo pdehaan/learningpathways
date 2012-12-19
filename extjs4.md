@@ -28,6 +28,9 @@ Typically, a Hello World program illustrates the quickest way to get anything (s
 - **(Tutorial)** [Ext JS Essentials](http://www.sencha.com/learn/ext-js-essentials) <small style='color:#aaa;'>&mdash; _Brian Moeskau_ on July 11, 2011</small>    
     Anyone new to using the Ext library or trying to learn more about it has come to the right place. This tutorial will walk through Ext basic concepts and how to get a dynamic page up and running quickly. It is assumed that the reader has some Javascript experience and a basic understanding of the HTML document object model (DOM). If not, you may want to begin with some general references first.
 
+- **(Blog)** [Countdown to Ext JS 4: Dynamic Loading and New Class System](http://www.sencha.com/blog/countdown-to-ext-js-4-dynamic-loading-and-new-class-system/) <small style='color:#aaa;'>&mdash; _Ed Spencer_ on January 19, 2011</small>    
+    Today we're unveiling the first in a series of new features coming in Ext JS 4 – a brand new class system. Follow along with our blog series as we continue the countdown to Ext JS 4.
+
 - **(Guide)** [The Class System](http://docs.sencha.com/ext-js/4-1/#!/guide/class_system) <small style='color:#aaa;'>&mdash; _docs.sencha.com_</small>    
     This manual is intended for any developer who wants to create new or extend existing classes with the new class system in Ext JS 4.x.
 
@@ -66,6 +69,9 @@ Typically, a Hello World program illustrates the quickest way to get anything (s
 
 - **(Guide)** [Trees](http://docs.sencha.com/ext-js/4-1/#!/guide/tree) <small style='color:#aaa;'>&mdash; _docs.sencha.com_</small>    
     Tree and grid now both extend from the same base class. All of the benefits of grid can now be used on trees.
+
+- **(Blog)** [Countdown to Ext JS 4: Data Package](http://www.sencha.com/blog/countdown-to-ext-js-4-data-package/) <small style='color:#aaa;'>&mdash; _Ed Spencer_ on January 21, 2011</small>    
+    Follow along with our blog series as we continue the countdown to Ext JS 4. Today Ext JS 4 lead, Ed Spencer takes you through our significantly improved Data Package.
 
 - **(Guide)** [The Data Package](http://docs.sencha.com/ext-js/4-1/#!/guide/data) <small style='color:#aaa;'>&mdash; _docs.sencha.com_</small>    
     The data package is what loads and saves all of the data in your application.
@@ -165,6 +171,9 @@ Typically, a Hello World program illustrates the quickest way to get anything (s
 
 - **(Community)** [Expert Ext JS: Associations in Forms](http://moduscreate.com/expert-ext-js-associations-in-forms/) <small style='color:#aaa;'>&mdash; _Aaron Smith (moduscreate.com)_ on June 18, 2012</small>    
     Associations were a major addition to the data package in Ext JS 4 and, to me at least, appeared to be a great answer to problems I had faced ...
+
+- **(Blog)** [Countdown to Ext JS 4: Anatomy of a Model](http://www.sencha.com/blog/ext-js-4-anatomy-of-a-model/) <small style='color:#aaa;'>&mdash; _Ed Spencer_ on February 08, 2011</small>    
+    If you follow Ext JS, chances are you already know that we have a brand new data package for Ext JS 4. The new data package builds on existing principles while adding a huge number of new capabilities. Follow along as Ed Spencer reveals more about this powerful feature of Ext JS 4.
 
 - **(Community)** [Expert Ext JS: Model Integration in Forms](http://moduscreate.com/expert-ext-js-model-integration-in-forms/) <small style='color:#aaa;'>&mdash; _Aaron Smith (moduscreate.com)_ on June 11, 2012</small>    
     In Ext JS 4, the data package received a lot of attention and the improvements made were, for the most part, quite impressive. However, the ...
