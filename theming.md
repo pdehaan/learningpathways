@@ -33,6 +33,9 @@ The following learning pathway will help you style and theme your Sencha applica
 - **(Video)** [Sass - The Next Wave in Styling and Theming (45:34)](http://docs.sencha.com/ext-js/4-1/#!/video/18084338) <small style='color:#aaa;'>&mdash; _Chris Eppstein_ on December 22, 2010</small>    
     CSS and CSS3 are an amazing toolbox for styling your applications, but they're a challenge to wrangle due to their wordy and encyclopedic nature. Sass is an overlay language for CSS that allows powerful and thorough control of CSS properties with a minimum of typing. In this session, we'll give you a thorough grounder in Sass. 
 
+- **(Community)** [The Absolute Beginner's Guide to Sass](http://blog.teamtreehouse.com/the-absolute-beginners-guide-to-sass) <small style='color:#aaa;'>&mdash; _Andrew Chalkley (blog.teamtreehouse.com)_ on January 16, 2013</small>    
+    What is Sass? Sass stands for Syntactically Awesome Stylesheets Sass, and was created by Hampton Catlin. It's a way to simplify your CSS workflow, making development and maintenance tasks easier.
+
 - **(Community)** [Getting started with Sass and Compass](http://thesassway.com/beginner/getting-started-with-sass-and-compass) <small style='color:#aaa;'>&mdash; _Adam Stacoviak (thesassway.com)_ on June 29, 2011</small>    
     So your friend, co-worker, web-buddy or whomever told you about Sass, Compass ... or both. Great! Now what? In this beginner guide we take you through the first steps of getting started with Sass and Compass. We walk you through installation, creating a test project, compiling your first lines of Sass to CSS, and we even "mixin" a little Sass history.
 
@@ -46,6 +49,12 @@ The following learning pathway will help you style and theme your Sencha applica
     A quick introduction to Sass - a powerful extension to CSS3, and Compass - a CSS authoring framework.
 
     See how using Sass & Compass can help to simplify your workflow, make changes & revisions easier, and impress your colleagues with newfound stylesheet wizardry.
+
+- **(Community)** [The Ecstasy and Agony of Compass Sprite Generation, Part 1](http://blog.teamtreehouse.com/the-ecstasy-and-agony-of-compass-sprite-generation-part-1) <small style='color:#aaa;'>&mdash; _Tracy Rotton (blog.teamtreehouse.com)_ on December 21, 2012</small>    
+    CSS preprocessors have become increasingly popular in recent years because of their capacity to do a lot of the most tedious parts of CSS for you automatically.
+
+- **(Community)** [The Ecstasy and Agony of Compass Sprite Generation, Part 2](http://blog.teamtreehouse.com/the-ecstasy-and-agony-of-compass-sprite-generation-part-2) <small style='color:#aaa;'>&mdash; _Tracy Rotton (blog.teamtreehouse.com)_ on January 9, 2013</small>    
+    In the [first part of our tutorial on Compass sprites](http://blog.teamtreehouse.com/the-ecstasy-and-agony-of-compass-sprite-generation-part-1), I showed you how awesome it was that we could make Compass do all the hard work for us by simply throwing our icons into their own folder and telling Compass what we wanted to do. If it were only that easy all the time.
 
 
 ## Other
@@ -67,7 +76,7 @@ The following learning pathway will help you style and theme your Sencha applica
 
 - **(App)** [Hammer (Mac only)](http://hammerformac.com/) <small style='color:#aaa;'>&mdash; _hammerformac.com_</small>    
     Hammer is a web development tool for web designers & developers.
-Hammer knows all about CoffeeScript, SASS & SCSS - and automatically compiles them into JavaScript & CSS. You can also use special tags to reference them in the <head>.
+Hammer knows all about CoffeeScript, SASS & SCSS - and automatically compiles them into JavaScript & CSS. You can also use special tags to reference them in the &lt;head&gt;.
 
 - **(Book)** [Sass and Compass in Action (Manning Press)](http://www.manning.com/netherland/) <small style='color:#aaa;'>&mdash; _Wynn Netherland, Nathan Weizenbaum, Chris Eppstein, Brandon Mathis_ on January 2013</small>    
     Sass and Compass in Action is the definitive guide to stylesheet authoring using these two revolutionary tools. Written for both designers and developers, this book demonstrates the power of both Sass and Compass through a series of examples that address common pain points associated with traditional stylesheet authoring. The book begins with simple topics such as CSS resets and moves on to more involved topics such as grid frameworks and CSS3 vendor implementation differences.

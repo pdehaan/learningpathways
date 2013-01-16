@@ -5,6 +5,9 @@
 
 - **(Learning Pathway)** [HTML5 Learning Pathway](null) <small style='color:#aaa;'>&mdash; _Sencha_</small>    
     
+- **(Blog)** [HTML5 Progress Report](http://www.sencha.com/blog/html5-progress-report/) <small style='color:#aaa;'>&mdash; _Michael Mullany_ on December 13, 2012</small>    
+    The state of HTML5 is strong today, with five modern HTML5 browsers to choose from, all with very complete HTML5 and CSS3 implementations. In this article, Sencha CEO Michael Mullany takes a look at HTML5 progress since it entered the mainstream almost three years ago.
+
 - **(Blog)** [Microsoft Surface vs. the iPad gen 4: The HTML5 Scorecard](http://www.sencha.com/blog/microsoft-surface-vs-the-ipad-gen-4-the-html5-scorecard/) <small style='color:#aaa;'>&mdash; _Michael Mullany_ on November 19, 2012</small>    
     This week, we've been putting both the iPad gen 4 and the Microsoft Surface tablet through their paces to see how they stack up as HTML5 platforms.
 

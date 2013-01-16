@@ -17,7 +17,7 @@ The following learning pathway shows how the Sencha Eclipse Plugin gives you cod
 - **(Blog)** [Sencha Eclipse Plugin Tips &amp; Tricks](http://www.sencha.com/blog/sencha-eclipse-plugin-tips-tricks) <small style='color:#aaa;'>&mdash; _Justin Early_ on December 11, 2012</small>    
     With the Sencha Eclipse Plugin, you're able to get code assist for standard Sencha Touch (new in Sencha Eclipse Plugin 1.1) and Ext JS types, as well as custom types that you define as a part of your project. In this article, guest blogger Justin Early demonstrates some of the tricks and tips that can make you a more productive Sencha Touch developer.
 
-- **(Video)** [Using Sencha Eclipse Plugin with Sencha Cmd (10:21)](http://www.sencha.com/blog/using-sencha-cmd-and-the-sencha-eclipse-plugin-together/) <small style='color:#aaa;'>&mdash; _www.sencha.com_ on November 27, 2012</small>    
+- **(Video)** [Using Sencha Eclipse Plugin with Sencha Cmd (10:21)](http://www.sencha.com/blog/using-sencha-cmd-and-the-sencha-eclipse-plugin-together/) <small style='color:#aaa;'>&mdash; _Aditya Bansod_ on November 29, 2012</small>    
     Sencha Cmd and Sencha Eclipse Plugin work great together. See how Sencha Cmd streamlines the process of setting up your model-view-controller Ext JS or Sencha Touch application and how Sencha Eclipse Plugin gives you code assist, error checking and type ahead support from the popular Eclipse IDE. Use both these Sencha tools together to dramatically reduce your app development time.
 
 
