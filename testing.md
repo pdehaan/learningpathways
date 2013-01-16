@@ -7,7 +7,7 @@ The following learning pathway will help you get started unit testing your mobil
 - **(Blog)** [Automating Unit Tests](http://www.sencha.com/blog/automating-unit-tests/) <small style='color:#aaa;'>&mdash; _Arthur Kay_ on August 02, 2012</small>    
     It's obvious that many people understand the benefits of unit tests—developers want to minimize the number of bugs in their code and managers want to reduce the amount of time required to test an application before release. Although the concept of unit testing has existed for years, software teams are only now beginning to explore building tests for their Rich Internet Applications (RIAs).
 
-- **(Blog)** [January 10, 2013](http://www.sencha.com/blog/ui-testing-a-sencha-app/) <small style='color:#aaa;'>&mdash; _Arthur Kay_ on January 10, 2013</small>    
+- **(Blog)** [UI Testing a Sencha App](http://www.sencha.com/blog/ui-testing-a-sencha-app/) <small style='color:#aaa;'>&mdash; _Arthur Kay_ on January 10, 2013</small>    
     A few months ago, I wrote a post titled [Automating Unit Tests](http://www.sencha.com/blog/automating-unit-tests/) that covered how developers could write unit tests for their business logic and validate their JavaScript syntax. Understanding these concepts is essential when building an enterprise application: bugs must be caught before changes are pushed into production or catastrophic consequences may follow.
 
 - **(Guide)** [Unit Testing with Jasmine](http://docs.sencha.com/ext-js/4-1/#!/guide/testing) <small style='color:#aaa;'>&mdash; _docs.sencha.com_</small>    
